@@ -1,0 +1,245 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Boing Boing
+5 institution:California Institute of Technology
+6 institution:Cardiff University
+7 institution:Duke University
+8 institution:Freelance
+9 institution:Google
+10 institution:Ohio State University
+11 institution:Scientific American
+12 institution:Self-Employed
+13 institution:The Atlantic
+14 institution:UCLA
+15 institution:University of Illinois
+16 institution:University of Minnesota
+17 institution:University of Texas at Austin
+18 institution:University of Wisconsin-Madison
+19 institution:Wired
+20 institution:Wired.com
+21 job_title:&
+22 job_title:-
+23 job_title:/
+24 job_title:a
+25 job_title:an
+26 job_title:and
+27 job_title:artist
+28 job_title:as
+29 job_title:associate
+30 job_title:at
+31 job_title:author
+32 job_title:author,
+33 job_title:bioinformatics
+34 job_title:biologist
+35 job_title:biology
+36 job_title:blog
+37 job_title:blogger,
+38 job_title:books
+39 job_title:candidate
+40 job_title:cardiff
+41 job_title:college
+42 job_title:communications
+43 job_title:community
+44 job_title:consultant
+45 job_title:design
+46 job_title:director
+47 job_title:director,
+48 job_title:do
+49 job_title:ecological
+50 job_title:economics
+51 job_title:editor
+52 job_title:editor,
+53 job_title:energy
+54 job_title:engineer
+55 job_title:evolutionary
+56 job_title:for
+57 job_title:founder
+58 job_title:genomics
+59 job_title:grad
+60 job_title:graduate
+61 job_title:helping
+62 job_title:i
+63 job_title:i'm
+64 job_title:in
+65 job_title:internet
+66 job_title:is
+67 job_title:journalism
+68 job_title:journalist
+69 job_title:journalist,
+70 job_title:lecturer
+71 job_title:lecturer,
+72 job_title:mathematician
+73 job_title:mathematics
+74 job_title:media
+75 job_title:my
+76 job_title:neuroscientist
+77 job_title:not
+78 job_title:of
+79 job_title:on
+80 job_title:people
+81 job_title:phd
+82 job_title:photographer
+83 job_title:physicist
+84 job_title:primary
+85 job_title:professor
+86 job_title:psychology
+87 job_title:public
+88 job_title:research
+89 job_title:researcher
+90 job_title:researcher,
+91 job_title:school
+92 job_title:science
+93 job_title:scientific
+94 job_title:scientist
+95 job_title:scientist,
+96 job_title:senior
+97 job_title:social
+98 job_title:software
+99 job_title:strategist
+100 job_title:student
+101 job_title:student,
+102 job_title:teach,
+103 job_title:tech
+104 job_title:technology
+105 job_title:the
+106 job_title:to
+107 job_title:university
+108 job_title:videos
+109 job_title:well
+110 job_title:with
+111 job_title:work
+112 job_title:write,
+113 job_title:writer
+114 job_title:writer,
+115 last_name:adam
+116 last_name:andrew
+117 last_name:ben
+118 last_name:bob
+119 last_name:brad
+120 last_name:brian
+121 last_name:chris
+122 last_name:christina
+123 last_name:christopher
+124 last_name:dan
+125 last_name:daniel
+126 last_name:dave
+127 last_name:david
+128 last_name:eric
+129 last_name:erin
+130 last_name:greg
+131 last_name:jennifer
+132 last_name:jerry
+133 last_name:joerg
+134 last_name:john
+135 last_name:jon
+136 last_name:jonathan
+137 last_name:kevin
+138 last_name:marc
+139 last_name:maria
+140 last_name:mark
+141 last_name:mary
+142 last_name:matt
+143 last_name:michael
+144 last_name:nicholas
+145 last_name:patrick
+146 last_name:paul
+147 last_name:philip
+148 last_name:ron
+149 last_name:ryan
+150 last_name:sean
+151 last_name:tom
+152 place:
+153 place:Aachen, Germany
+154 place:Albany, NY
+155 place:Ann Arbor, MI
+156 place:Atlanta, GA
+157 place:Austin, TX
+158 place:Baltimore, MD
+159 place:Berkeley, CA
+160 place:Berkeley, California
+161 place:Berlin
+162 place:Boston, MA
+163 place:Brookline, MA
+164 place:Brooklyn, NY
+165 place:Cambridge, MA
+166 place:Cambridge, UK
+167 place:Chicago
+168 place:Chicago, IL
+169 place:Columbus, OH
+170 place:Durham, NC
+171 place:Erlangen, Germany
+172 place:Gainesville, FL
+173 place:Geneva
+174 place:Heidelberg, Germany
+175 place:Houston TX
+176 place:Houston, TX
+177 place:Iowa City, Iowa
+178 place:Ithaca, NY
+179 place:Lawrence, Kansas
+180 place:London
+181 place:London, England
+182 place:Los Angeles, CA
+183 place:Madison, WI
+184 place:Manchester, NH
+185 place:Minneapolis, MN
+186 place:Nashville
+187 place:New York, NY
+188 place:Osaka
+189 place:Paris, France
+190 place:Pittsburgh, PA
+191 place:Princeton NJ
+192 place:San Antonio TX
+193 place:San Diego
+194 place:San Diego, CA
+195 place:San Diego, California
+196 place:San Francisco
+197 place:San Francisco, CA
+198 place:San Francisco, California
+199 place:Seattle, WA
+200 place:Seattle, Washington
+201 place:Seoul, South Korea
+202 place:Somerville, MA
+203 place:Tokyo
+204 place:Tokyo, Japan
+205 place:Vancouver, BC
+206 place:Washington, DC
+207 university:Arizona State University
+208 university:College of William and Mary
+209 university:Columbia University
+210 university:Cornell University
+211 university:Duke University
+212 university:George Washington University
+213 university:Harvard College
+214 university:Harvard University
+215 university:Imperial College London
+216 university:Johns Hopkins University
+217 university:Michigan State University
+218 university:New York University
+219 university:North Carolina State University
+220 university:Northwestern University
+221 university:Princeton University
+222 university:Rutgers University
+223 university:Stanford University
+224 university:The University of Texas at Austin
+225 university:Tufts University
+226 university:University of British Columbia
+227 university:University of California, Berkeley
+228 university:University of California, San Diego
+229 university:University of Chicago
+230 university:University of Florida
+231 university:University of Hawaii at Manoa
+232 university:University of Illinois at Urbana-Champaign
+233 university:University of Kansas
+234 university:University of Michigan
+235 university:University of North Carolina at Chapel Hill
+236 university:University of Rochester
+237 university:University of Southern California
+238 university:University of Toledo
+239 university:University of Victoria
+240 university:University of Virginia
+241 university:University of Wisconsin-Madison
+242 university:Wesleyan University
+243 university:Williams College
+244 university:Yale University

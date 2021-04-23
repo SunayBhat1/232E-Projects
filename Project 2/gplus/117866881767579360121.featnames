@@ -1,0 +1,49 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Google
+5 institution:Mashable
+6 institution:Microsoft
+7 job_title:&
+8 job_title:a
+9 job_title:actress,
+10 job_title:advertising
+11 job_title:all
+12 job_title:and
+13 job_title:at
+14 job_title:author,
+15 job_title:business
+16 job_title:ceo
+17 job_title:consultant
+18 job_title:digital
+19 job_title:for
+20 job_title:marketing
+21 job_title:media
+22 job_title:new
+23 job_title:of
+24 job_title:on
+25 job_title:reporter
+26 job_title:sales
+27 job_title:singer,
+28 job_title:social
+29 job_title:specialist
+30 job_title:the
+31 job_title:tourism
+32 job_title:travel
+33 job_title:vice
+34 job_title:web
+35 job_title:work
+36 last_name:mark
+37 last_name:paul
+38 last_name:pete
+39 last_name:robert
+40 last_name:thomas
+41 place:London
+42 place:Los Angeles
+43 place:Los Angeles, CA
+44 place:Port Elizabeth
+45 place:San Francisco
+46 place:Scotland
+47 university:Stanford University
+48 university:UCLA

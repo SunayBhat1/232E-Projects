@@ -1,0 +1,399 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:ARTIST
+5 institution:Artist
+6 institution:Byrd Designs
+7 institution:Freelance Artist
+8 institution:Google
+9 institution:Microsoft
+10 institution:Northrop Grumman
+11 institution:Ringling College of Art and Design
+12 institution:SayNow
+13 institution:Self
+14 institution:United States Air Force
+15 job_title:&
+16 job_title:+
+17 job_title:,
+18 job_title:-
+19 job_title:/
+20 job_title:@
+21 job_title:a
+22 job_title:about
+23 job_title:actor,
+24 job_title:advocate
+25 job_title:all
+26 job_title:also
+27 job_title:am
+28 job_title:amateur
+29 job_title:an
+30 job_title:and
+31 job_title:animator
+32 job_title:animator,
+33 job_title:around
+34 job_title:art
+35 job_title:art,
+36 job_title:art.
+37 job_title:artist
+38 job_title:artist,
+39 job_title:artist.
+40 job_title:artist/painter
+41 job_title:artiste
+42 job_title:arts
+43 job_title:as
+44 job_title:at
+45 job_title:author
+46 job_title:author,
+47 job_title:blogger
+48 job_title:blogger,
+49 job_title:book
+50 job_title:build
+51 job_title:business
+52 job_title:business,
+53 job_title:by
+54 job_title:cartoonist
+55 job_title:ceo,
+56 job_title:certified
+57 job_title:coffee
+58 job_title:collage
+59 job_title:columnist
+60 job_title:comic
+61 job_title:community
+62 job_title:computer
+63 job_title:concept
+64 job_title:conceptual
+65 job_title:consultant
+66 job_title:consultant,
+67 job_title:cool
+68 job_title:create
+69 job_title:creative
+70 job_title:creator
+71 job_title:curator,
+72 job_title:day
+73 job_title:de
+74 job_title:design
+75 job_title:design,
+76 job_title:designer
+77 job_title:designer,
+78 job_title:designer.
+79 job_title:developer
+80 job_title:developer,
+81 job_title:development
+82 job_title:digital
+83 job_title:director
+84 job_title:director,
+85 job_title:do
+86 job_title:dreamer
+87 job_title:editor
+88 job_title:editor,
+89 job_title:engineer
+90 job_title:engineer,
+91 job_title:engineering
+92 job_title:enthusiast,
+93 job_title:entrepreneur
+94 job_title:entrepreneur.
+95 job_title:et
+96 job_title:etc.
+97 job_title:executive
+98 job_title:explorer
+99 job_title:film
+100 job_title:filmmaker
+101 job_title:filmmaker,
+102 job_title:films
+103 job_title:find
+104 job_title:fine
+105 job_title:for
+106 job_title:founder
+107 job_title:freelance
+108 job_title:full
+109 job_title:full-time
+110 job_title:g+
+111 job_title:gallery
+112 job_title:geek
+113 job_title:go-to
+114 job_title:google
+115 job_title:google+
+116 job_title:graphic
+117 job_title:hangout
+118 job_title:hangouts
+119 job_title:hire
+120 job_title:host
+121 job_title:human
+122 job_title:i
+123 job_title:i'm
+124 job_title:illustration
+125 job_title:illustrator
+126 job_title:illustrator,
+127 job_title:in
+128 job_title:instructor
+129 job_title:internet
+130 job_title:it
+131 job_title:non-ascii_131
+132 job_title:life
+133 job_title:like
+134 job_title:live
+135 job_title:love
+136 job_title:lover,
+137 job_title:make
+138 job_title:manager
+139 job_title:marketing
+140 job_title:me
+141 job_title:media
+142 job_title:media,
+143 job_title:member
+144 job_title:mixed
+145 job_title:mobile
+146 job_title:mostly
+147 job_title:mother,
+148 job_title:multiple
+149 job_title:music,
+150 job_title:musician
+151 job_title:my
+152 job_title:new
+153 job_title:night
+154 job_title:not
+155 job_title:now
+156 job_title:occasional
+157 job_title:of
+158 job_title:officer
+159 job_title:oil
+160 job_title:on
+161 job_title:online
+162 job_title:or
+163 job_title:organization
+164 job_title:out
+165 job_title:over
+166 job_title:own
+167 job_title:owner
+168 job_title:paint
+169 job_title:painter
+170 job_title:painter,
+171 job_title:painting
+172 job_title:paintings
+173 job_title:partner
+174 job_title:peintre
+175 job_title:performer,
+176 job_title:photo
+177 job_title:photographer
+178 job_title:photographer,
+179 job_title:photography
+180 job_title:photography,
+181 job_title:player
+182 job_title:poet,
+183 job_title:pr
+184 job_title:pro
+185 job_title:problem
+186 job_title:producer
+187 job_title:product
+188 job_title:professional
+189 job_title:really
+190 job_title:recording
+191 job_title:run
+192 job_title:screenwriter
+193 job_title:sculptor,
+194 job_title:see
+195 job_title:seeking
+196 job_title:self-employed
+197 job_title:social
+198 job_title:software
+199 job_title:sound
+200 job_title:speaker,
+201 job_title:strategist
+202 job_title:street
+203 job_title:student
+204 job_title:student,
+205 job_title:teacher
+206 job_title:teacher,
+207 job_title:tech
+208 job_title:technology
+209 job_title:the
+210 job_title:things
+211 job_title:thinker
+212 job_title:thinker,
+213 job_title:time
+214 job_title:to
+215 job_title:tools
+216 job_title:toy
+217 job_title:try
+218 job_title:unemployed
+219 job_title:video
+220 job_title:videographer
+221 job_title:visual
+222 job_title:voice
+223 job_title:watercolor
+224 job_title:web
+225 job_title:websites.
+226 job_title:when
+227 job_title:who
+228 job_title:with
+229 job_title:work
+230 job_title:working
+231 job_title:world
+232 job_title:write
+233 job_title:write,
+234 job_title:writer
+235 job_title:writer,
+236 job_title:writer.
+237 job_title:you
+238 job_title:|
+239 last_name:adam
+240 last_name:alex
+241 last_name:andrea
+242 last_name:anna
+243 last_name:bernard
+244 last_name:brian
+245 last_name:caroline
+246 last_name:carolyn
+247 last_name:catherine
+248 last_name:chris
+249 last_name:christina
+250 last_name:christopher
+251 last_name:colin
+252 last_name:colleen
+253 last_name:non-ascii_253
+254 last_name:dan
+255 last_name:daniel
+256 last_name:dave
+257 last_name:david
+258 last_name:denis
+259 last_name:eric
+260 last_name:gabriel
+261 last_name:gary
+262 last_name:giuseppe
+263 last_name:guy
+264 last_name:ian
+265 last_name:jeff
+266 last_name:jessica
+267 last_name:jill
+268 last_name:julia
+269 last_name:julie
+270 last_name:justin
+271 last_name:lisa
+272 last_name:marilyn
+273 last_name:mark
+274 last_name:matt
+275 last_name:michael
+276 last_name:michelle
+277 last_name:mike
+278 last_name:nina
+279 last_name:paul
+280 last_name:pete
+281 last_name:peter
+282 last_name:philip
+283 last_name:robert
+284 last_name:ryan
+285 last_name:scott
+286 last_name:tim
+287 last_name:tom
+288 last_name:tracey
+289 place:
+290 place:Alameda, CA
+291 place:Albuquerque, NM
+292 place:Ann Arbor, MI
+293 place:Atlanta, GA
+294 place:Austin, TX
+295 place:Austin, Texas
+296 place:Baltimore, MD
+297 place:Bangkok, Thailand
+298 place:Bellevue, WA
+299 place:Belmont, CA
+300 place:Berkeley, CA
+301 place:Berlin
+302 place:Berlin Germany
+303 place:Bielefeld, Germany
+304 place:Boston
+305 place:Boston, MA
+306 place:Brooklyn, NY
+307 place:Calgary
+308 place:California
+309 place:Cambridge, MA
+310 place:Canada
+311 place:Chicago IL
+312 place:Chicago, IL
+313 place:Columbia, MO
+314 place:Columbus, Ohio
+315 place:Conway, AR
+316 place:Denver, CO
+317 place:Denver, Colorado
+318 place:Detroit
+319 place:Dublin, Ireland
+320 place:Edinburgh
+321 place:Europe
+322 place:Everywhere
+323 place:Florida
+324 place:France
+325 place:Frankfurt, Germany
+326 place:Geneva, Switzerland
+327 place:Germany
+328 place:Hampton, VA
+329 place:Hawaii
+330 place:Honolulu
+331 place:Houston, TX
+332 place:Knoxville, TN
+333 place:Las Vegas
+334 place:London
+335 place:London, England
+336 place:Los Angeles
+337 place:Los Angeles, CA
+338 place:Los Angeles, California
+339 place:Madison, WI
+340 place:Montreal
+341 place:Moscow
+342 place:Moscow, Russia
+343 place:NYC
+344 place:Nashville
+345 place:Nashville, TN
+346 place:New York
+347 place:New York City
+348 place:New York, NY
+349 place:Norfolk, VA
+350 place:Oklahoma City, OK
+351 place:Orlando
+352 place:Orlando, Florida
+353 place:Palo Alto, CA
+354 place:Paris
+355 place:Paris, France
+356 place:Phoenix, AZ
+357 place:Pittsburgh, PA
+358 place:Prescott, AZ
+359 place:Rochester, NY
+360 place:Rouen
+361 place:Sacramento, CA
+362 place:San Diego, CA
+363 place:San Diego, California
+364 place:San Francisco
+365 place:San Francisco, CA
+366 place:Santa Cruz, CA
+367 place:Seattle
+368 place:Strasbourg
+369 place:Sunnyvale, CA
+370 place:Sydney
+371 place:Texas
+372 place:Toronto
+373 place:Vancouver, BC
+374 place:Walnut Creek, CA
+375 place:Washington, D.C.
+376 place:Washington, DC
+377 place:los angeles
+378 university:
+379 university:Academy of Art University
+380 university:Accademia di Belle Arti di Brera
+381 university:American Academy of Art
+382 university:Arizona State University
+383 university:Berklee College of Music
+384 university:Glendale Community College
+385 university:John Abbott College
+386 university:Liceo Artistico
+387 university:Ringling College of Art and Design
+388 university:School of the Art Institute of Chicago
+389 university:Sonoma State University
+390 university:Southern Methodist University
+391 university:The Art Institute of Pittsburgh
+392 university:UCLA
+393 university:University of New Mexico
+394 university:University of Texas at Austin
+395 university:University of Texas at Dallas
+396 university:University of Washington
+397 university:University of Wisconsin-Madison
+398 university:Utrecht University

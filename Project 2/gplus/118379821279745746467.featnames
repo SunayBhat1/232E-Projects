@@ -1,0 +1,500 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Author
+5 institution:Burger King
+6 institution:CBS Interactive
+7 institution:CNET
+8 institution:CNET/CBS Interactive
+9 institution:CNN
+10 institution:Clarkesworld Magazine
+11 institution:Engadget
+12 institution:Freelance
+13 institution:GROUP Business Software
+14 institution:IBM
+15 institution:Imtech ICT Integrated Solutions
+16 institution:Lotus Software
+17 institution:Mahalo.com
+18 institution:Mashable
+19 institution:Microsoft
+20 institution:North Jersey Media Group
+21 institution:PAVONE AG
+22 institution:Philips
+23 institution:Research In Motion
+24 institution:Retired
+25 institution:Revision3 Corporation
+26 institution:Science Fiction Writer
+27 institution:Science Fiction and Fantasy Writers of America
+28 institution:Self
+29 institution:Self-employed
+30 institution:Self-publishing
+31 institution:Simon & Schuster
+32 institution:TWiT
+33 institution:TWiT.tv
+34 institution:Teamstudio
+35 institution:TechCrunch
+36 institution:TechTV
+37 institution:US Air Force
+38 institution:VentureBeat
+39 institution:Writer
+40 institution:YA Author
+41 institution:ZDTV
+42 institution:midpoints GmbH
+43 job_title:&
+44 job_title:+
+45 job_title:-
+46 job_title:/
+47 job_title:a
+48 job_title:about
+49 job_title:administrator
+50 job_title:adult
+51 job_title:am
+52 job_title:an
+53 job_title:and
+54 job_title:application
+55 job_title:architect
+56 job_title:artist
+57 job_title:artist,
+58 job_title:as
+59 job_title:aspiring
+60 job_title:at
+61 job_title:attempting
+62 job_title:author
+63 job_title:author,
+64 job_title:author.
+65 job_title:better
+66 job_title:blogger
+67 job_title:blogger,
+68 job_title:book
+69 job_title:books
+70 job_title:build
+71 job_title:business
+72 job_title:by
+73 job_title:cbs
+74 job_title:ceo
+75 job_title:collaboration
+76 job_title:collaboration,
+77 job_title:community
+78 job_title:computer
+79 job_title:computing
+80 job_title:connections
+81 job_title:consultant
+82 job_title:consultant,
+83 job_title:consulting
+84 job_title:content
+85 job_title:copywriter,
+86 job_title:cover
+87 job_title:dark
+88 job_title:day
+89 job_title:design
+90 job_title:designer
+91 job_title:designer,
+92 job_title:developer
+93 job_title:developer,
+94 job_title:development
+95 job_title:digital
+96 job_title:director
+97 job_title:director,
+98 job_title:doing
+99 job_title:domino
+100 job_title:draw,
+101 job_title:editor
+102 job_title:editor,
+103 job_title:engineer
+104 job_title:engineer,
+105 job_title:english
+106 job_title:enterprise
+107 job_title:entrepreneur
+108 job_title:entrepreneur,
+109 job_title:evangelist
+110 job_title:executive
+111 job_title:experience
+112 job_title:fantasy
+113 job_title:fantasy,
+114 job_title:few
+115 job_title:fiction
+116 job_title:fiction,
+117 job_title:fiction.
+118 job_title:for
+119 job_title:founder
+120 job_title:free
+121 job_title:freelance
+122 job_title:from
+123 job_title:game
+124 job_title:geek
+125 job_title:geek,
+126 job_title:gmbh
+127 job_title:graphic
+128 job_title:help
+129 job_title:hire
+130 job_title:horror
+131 job_title:host
+132 job_title:i
+133 job_title:i'm
+134 job_title:ibm
+135 job_title:in
+136 job_title:independent
+137 job_title:information
+138 job_title:interactive
+139 job_title:it
+140 job_title:it.
+141 job_title:job
+142 job_title:journalist
+143 job_title:large
+144 job_title:law
+145 job_title:leader
+146 job_title:legal
+147 job_title:lotus
+148 job_title:manager
+149 job_title:manager,
+150 job_title:marketing
+151 job_title:me
+152 job_title:media
+153 job_title:messaging
+154 job_title:mobile
+155 job_title:mom
+156 job_title:mom,
+157 job_title:multimedia
+158 job_title:musician
+159 job_title:my
+160 job_title:mystery
+161 job_title:new
+162 job_title:no
+163 job_title:not
+164 job_title:notes
+165 job_title:notes/domino
+166 job_title:novel
+167 job_title:novelist
+168 job_title:novelist,
+169 job_title:novels
+170 job_title:of
+171 job_title:office
+172 job_title:officer
+173 job_title:on
+174 job_title:owner
+175 job_title:paranormal
+176 job_title:people
+177 job_title:photographer
+178 job_title:podcast
+179 job_title:podcaster
+180 job_title:private
+181 job_title:producer
+182 job_title:producer/host
+183 job_title:professional
+184 job_title:professional,
+185 job_title:professor,
+186 job_title:programmer
+187 job_title:project
+188 job_title:publicist
+189 job_title:published
+190 job_title:publisher
+191 job_title:publishing
+192 job_title:read.
+193 job_title:reader
+194 job_title:reality
+195 job_title:reporter
+196 job_title:rocks
+197 job_title:romance
+198 job_title:sales
+199 job_title:sametime,
+200 job_title:sci-fi
+201 job_title:science
+202 job_title:scientist
+203 job_title:scientist,
+204 job_title:screenwriter,
+205 job_title:self-published
+206 job_title:senior
+207 job_title:service
+208 job_title:services
+209 job_title:sf
+210 job_title:short
+211 job_title:social
+212 job_title:software
+213 job_title:solution
+214 job_title:solutions
+215 job_title:speaker
+216 job_title:specialist
+217 job_title:specialist,
+218 job_title:speculative
+219 job_title:sr.
+220 job_title:stories
+221 job_title:strategist
+222 job_title:student
+223 job_title:stuff
+224 job_title:stuff.
+225 job_title:systems
+226 job_title:teacher
+227 job_title:team
+228 job_title:tech
+229 job_title:technical
+230 job_title:technologist
+231 job_title:technology
+232 job_title:that
+233 job_title:the
+234 job_title:they
+235 job_title:thinker
+236 job_title:this
+237 job_title:thriller
+238 job_title:time
+239 job_title:to
+240 job_title:translator,
+241 job_title:trying
+242 job_title:tv
+243 job_title:urban
+244 job_title:user
+245 job_title:video
+246 job_title:want
+247 job_title:web
+248 job_title:websphere
+249 job_title:well
+250 job_title:when
+251 job_title:with
+252 job_title:work
+253 job_title:write
+254 job_title:write,
+255 job_title:write.
+256 job_title:writer
+257 job_title:writer,
+258 job_title:writer.
+259 job_title:writer/editor
+260 job_title:writes
+261 job_title:writing
+262 job_title:writing,
+263 job_title:writing.
+264 job_title:ya
+265 job_title:young
+266 last_name:aaron
+267 last_name:adam
+268 last_name:alan
+269 last_name:amanda
+270 last_name:andreas
+271 last_name:andrew
+272 last_name:andy
+273 last_name:angela
+274 last_name:arthur
+275 last_name:ben
+276 last_name:bill
+277 last_name:bob
+278 last_name:brian
+279 last_name:bruce
+280 last_name:cheryl
+281 last_name:chris
+282 last_name:christian
+283 last_name:christoph
+284 last_name:courtney
+285 last_name:craig
+286 last_name:dan
+287 last_name:daniel
+288 last_name:darren
+289 last_name:dave
+290 last_name:david
+291 last_name:doug
+292 last_name:eileen
+293 last_name:elizabeth
+294 last_name:eric
+295 last_name:gary
+296 last_name:george
+297 last_name:gina
+298 last_name:glenn
+299 last_name:greg
+300 last_name:henry
+301 last_name:ingo
+302 last_name:jacob
+303 last_name:james
+304 last_name:jan
+305 last_name:jason
+306 last_name:jay
+307 last_name:jeff
+308 last_name:jennifer
+309 last_name:jerry
+310 last_name:jesse
+311 last_name:joe
+312 last_name:john
+313 last_name:jon
+314 last_name:jonathan
+315 last_name:joseph
+316 last_name:julian
+317 last_name:justin
+318 last_name:karen
+319 last_name:kate
+320 last_name:kathleen
+321 last_name:kathy
+322 last_name:keith
+323 last_name:ken
+324 last_name:kevin
+325 last_name:lars
+326 last_name:lawrence
+327 last_name:lee
+328 last_name:linda
+329 last_name:lisa
+330 last_name:luis
+331 last_name:marco
+332 last_name:mark
+333 last_name:martin
+334 last_name:maureen
+335 last_name:melissa
+336 last_name:michael
+337 last_name:mike
+338 last_name:nancy
+339 last_name:neil
+340 last_name:patrick
+341 last_name:paul
+342 last_name:pete
+343 last_name:peter
+344 last_name:phil
+345 last_name:ray
+346 last_name:rebecca
+347 last_name:richard
+348 last_name:rob
+349 last_name:robert
+350 last_name:roger
+351 last_name:sarah
+352 last_name:scott
+353 last_name:sean
+354 last_name:simon
+355 last_name:stephen
+356 last_name:steve
+357 last_name:susan
+358 last_name:thomas
+359 last_name:tim
+360 last_name:todd
+361 last_name:ulrich
+362 last_name:werner
+363 last_name:william
+364 last_name:wolfgang
+365 place:
+366 place:Albany, GA
+367 place:Ann Arbor, MI
+368 place:Arlington Heights, IL
+369 place:Atlanta, GA
+370 place:Aurora, IL
+371 place:Austin, TX
+372 place:Boston
+373 place:Boston, MA
+374 place:Bowling Green, OH
+375 place:Brooklyn
+376 place:Brooklyn, NY
+377 place:Cambridge, MA
+378 place:Cape Town
+379 place:Charlottesville, VA
+380 place:Chicago
+381 place:Chicago, IL
+382 place:Columbus, OH
+383 place:Concord, CA
+384 place:Connecticut
+385 place:Corvallis, OR
+386 place:Daytona Beach, FL
+387 place:Denver, CO
+388 place:Dublin
+389 place:East Lansing, MI
+390 place:Edinburgh, Scotland
+391 place:El Paso, TX
+392 place:Folsom, CA
+393 place:Fort Collins, CO
+394 place:Fort Lauderdale, FL
+395 place:Glasgow, Scotland
+396 place:Glendale, AZ
+397 place:Grandview, MO
+398 place:Hamburg
+399 place:Helsinki
+400 place:Houston
+401 place:Houston, TX
+402 place:Japan
+403 place:Kitchener, Ontario
+404 place:Laramie, Wyoming
+405 place:Lexington, KY
+406 place:London
+407 place:London, England
+408 place:London, UK
+409 place:Los Angeles
+410 place:Los Angeles, CA
+411 place:Madison, WI
+412 place:Manhattan
+413 place:Mankato, MN
+414 place:Michigan
+415 place:Milwaukee, WI
+416 place:Minneapolis, MN
+417 place:non-ascii_417
+418 place:non-ascii_418
+419 place:New Jersey
+420 place:New York
+421 place:New York City
+422 place:New York City, NY
+423 place:New York, NY
+424 place:New York, New York
+425 place:Oakland, CA
+426 place:Oregon
+427 place:Paris
+428 place:Paris, France
+429 place:Peterborough
+430 place:Philadelphia, PA
+431 place:Portland, OR
+432 place:Provo, UT
+433 place:Raleigh, NC
+434 place:Renton, WA
+435 place:Richmond, VA
+436 place:Sacramento, CA
+437 place:Salt Lake City, UT
+438 place:San Francisco
+439 place:San Francisco, CA
+440 place:Santa Rosa, CA
+441 place:Scotland
+442 place:Seattle, WA
+443 place:Somerset, New Jersey
+444 place:Southern California
+445 place:Sydney
+446 place:Syracuse, NY
+447 place:Taiwan
+448 place:Texas
+449 place:Tokyo, Japan
+450 place:Torrance, CA
+451 place:Washington, DC
+452 place:Wichita, KS
+453 place:Wien
+454 place:Worcester, MA
+455 place:Wyoming
+456 university:
+457 university:Berklee College of Music
+458 university:Boston University
+459 university:Bowling Green State University
+460 university:California State University, Chico
+461 university:Carnegie Mellon University
+462 university:Copenhagen Business School
+463 university:DeVry University
+464 university:Emerson College
+465 university:Indiana University of Pennsylvania
+466 university:Michigan State University
+467 university:Miskatonic University
+468 university:New York University
+469 university:None
+470 university:North Carolina State University
+471 university:Northwestern University
+472 university:Portland State University
+473 university:San Francisco State University
+474 university:TU Darmstadt
+475 university:Technical University Darmstadt
+476 university:Temple University
+477 university:UCLA
+478 university:University of Arizona
+479 university:University of California, Riverside
+480 university:University of Chicago
+481 university:University of Connecticut
+482 university:University of Georgia
+483 university:University of Houston
+484 university:University of Illinois at Urbana-Champaign
+485 university:University of Iowa
+486 university:University of Maryland, College Park
+487 university:University of Michigan
+488 university:University of Technology, Sydney
+489 university:University of Tennessee at Chattanooga
+490 university:University of Texas at Austin
+491 university:University of Toronto
+492 university:University of Wisconsin-Madison
+493 university:University of Wyoming
+494 university:Utah State University
+495 university:VCU
+496 university:Valdosta State University
+497 university:Washington University in St. Louis
+498 university:West Chester University of Pennsylvania
+499 university:Yale University

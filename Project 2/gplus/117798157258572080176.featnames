@@ -1,0 +1,120 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Honeywell
+5 institution:Writer
+6 job_title:&
+7 job_title:/
+8 job_title:a
+9 job_title:administrator
+10 job_title:and
+11 job_title:anything
+12 job_title:artist
+13 job_title:artist,
+14 job_title:assistant
+15 job_title:at
+16 job_title:author
+17 job_title:author,
+18 job_title:computer
+19 job_title:consultant
+20 job_title:day
+21 job_title:designer
+22 job_title:developer,
+23 job_title:digital
+24 job_title:director
+25 job_title:editor,
+26 job_title:engineer
+27 job_title:english
+28 job_title:fiction
+29 job_title:for
+30 job_title:freelance
+31 job_title:geek
+32 job_title:get
+33 job_title:i
+34 job_title:i'm
+35 job_title:in
+36 job_title:it
+37 job_title:it.
+38 job_title:just
+39 job_title:language
+40 job_title:manager
+41 job_title:marketing
+42 job_title:metal
+43 job_title:network
+44 job_title:of
+45 job_title:on
+46 job_title:online
+47 job_title:operator
+48 job_title:podcaster
+49 job_title:podcaster,
+50 job_title:programmer
+51 job_title:published
+52 job_title:see
+53 job_title:senior
+54 job_title:service
+55 job_title:social
+56 job_title:software
+57 job_title:strategist
+58 job_title:student
+59 job_title:system
+60 job_title:teacher
+61 job_title:teacher,
+62 job_title:technician
+63 job_title:the
+64 job_title:to
+65 job_title:want
+66 job_title:we
+67 job_title:with
+68 job_title:write
+69 job_title:writer
+70 job_title:writer,
+71 last_name:andrew
+72 last_name:brandon
+73 last_name:brian
+74 last_name:chris
+75 last_name:christopher
+76 last_name:craig
+77 last_name:daniel
+78 last_name:david
+79 last_name:jack
+80 last_name:james
+81 last_name:john
+82 last_name:jonathan
+83 last_name:justin
+84 last_name:kelly
+85 last_name:ken
+86 last_name:marc
+87 last_name:mark
+88 last_name:martin
+89 last_name:matthew
+90 last_name:michael
+91 last_name:mike
+92 last_name:nathan
+93 last_name:paul
+94 last_name:richard
+95 last_name:roger
+96 last_name:ron
+97 last_name:scott
+98 last_name:thomas
+99 last_name:tim
+100 place:Blacksburg, VA
+101 place:Boulder, CO
+102 place:California
+103 place:Idaho Falls, ID
+104 place:Lomita, CA
+105 place:London
+106 place:Los Angeles
+107 place:Lubbock, TX
+108 place:New York City
+109 place:Oklahoma
+110 place:Orlando, FL
+111 place:Phoenix, AZ
+112 place:San Antonio, TX
+113 place:San Diego, CA
+114 place:Stanton, CA
+115 place:Tempe, AZ
+116 place:Texas
+117 university:Texas Tech University
+118 university:University at Buffalo, The State University of New York
+119 university:University of Phoenix

@@ -1,0 +1,129 @@
+0 gender:1
+1 gender:2
+2 institution:Accenture
+3 institution:Appirio
+4 institution:Cloud Sherpas
+5 institution:Dito
+6 institution:Google
+7 institution:Hewlett-Packard
+8 institution:IBM
+9 institution:Intel Corporation
+10 institution:LTech
+11 institution:Microsoft
+12 institution:Onix
+13 institution:Onix Networking
+14 institution:Optimus Solutions
+15 institution:Oracle Corporation
+16 institution:SADA Systems
+17 institution:TWiT
+18 institution:TechTV
+19 institution:VMware
+20 institution:ZDTV
+21 job_title:&
+22 job_title:-
+23 job_title:/
+24 job_title:@
+25 job_title:and
+26 job_title:any
+27 job_title:apps
+28 job_title:at
+29 job_title:business
+30 job_title:cloud
+31 job_title:computing
+32 job_title:consultant
+33 job_title:deployment
+34 job_title:developer
+35 job_title:development
+36 job_title:director
+37 job_title:engineer
+38 job_title:enterprise
+39 job_title:evangelist
+40 job_title:for
+41 job_title:founder
+42 job_title:google
+43 job_title:google,
+44 job_title:i
+45 job_title:in
+46 job_title:inc
+47 job_title:manager
+48 job_title:manager,
+49 job_title:marketing
+50 job_title:of
+51 job_title:operations
+52 job_title:partner
+53 job_title:product
+54 job_title:sada
+55 job_title:sales
+56 job_title:sales,
+57 job_title:senior
+58 job_title:sherpas
+59 job_title:systems
+60 job_title:tech
+61 job_title:technology
+62 job_title:the
+63 job_title:using
+64 job_title:vp
+65 job_title:web
+66 job_title:writer
+67 last_name:adam
+68 last_name:brandon
+69 last_name:chris
+70 last_name:dan
+71 last_name:dave
+72 last_name:david
+73 last_name:greg
+74 last_name:jeff
+75 last_name:john
+76 last_name:justin
+77 last_name:kevin
+78 last_name:kyle
+79 last_name:matt
+80 last_name:matthew
+81 last_name:michael
+82 last_name:michelle
+83 last_name:mike
+84 last_name:ryan
+85 last_name:steve
+86 last_name:terry
+87 place:
+88 place:Arlington, VA
+89 place:Atlanta
+90 place:Atlanta, GA
+91 place:Austin
+92 place:Austin, TX
+93 place:Blacksburg, VA
+94 place:Boston, MA
+95 place:California
+96 place:Champaign, IL
+97 place:Chicago
+98 place:Dallas
+99 place:Denver, CO
+100 place:Everywhere
+101 place:Folsom, CA
+102 place:Indiana
+103 place:London
+104 place:Los Angeles, CA
+105 place:Manassas, VA
+106 place:Mountain View, CA
+107 place:New York
+108 place:New York, NY
+109 place:Orlando, FL
+110 place:Palo Alto, CA
+111 place:Paris
+112 place:Reading, UK
+113 place:San Diego
+114 place:San Francisco
+115 place:San Francisco, CA
+116 place:San Jose, CA
+117 place:Seattle, WA
+118 place:South Carolina
+119 place:Stanford, CA
+120 place:Washington DC
+121 university:DePaul University
+122 university:Georgia Institute of Technology
+123 university:Northwestern University
+124 university:Ohio State University
+125 university:Stanford Graduate School of Business
+126 university:Stanford University
+127 university:University of Illinois at Urbana-Champaign
+128 university:University of Wisconsin-Madison

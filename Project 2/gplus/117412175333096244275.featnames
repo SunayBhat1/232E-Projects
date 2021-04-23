@@ -1,0 +1,74 @@
+0 gender:1
+1 gender:2
+2 institution:
+3 job_title:&
+4 job_title:,
+5 job_title:/
+6 job_title:a
+7 job_title:actor
+8 job_title:actress,
+9 job_title:and
+10 job_title:artist
+11 job_title:artist,
+12 job_title:at
+13 job_title:ceo
+14 job_title:composer
+15 job_title:dj,
+16 job_title:engineer
+17 job_title:entertainment
+18 job_title:estudiante
+19 job_title:for
+20 job_title:i
+21 job_title:make
+22 job_title:marketing
+23 job_title:media
+24 job_title:music
+25 job_title:musician
+26 job_title:of
+27 job_title:other
+28 job_title:people
+29 job_title:philanthropist,
+30 job_title:photographer
+31 job_title:producer
+32 job_title:producer,
+33 job_title:recording
+34 job_title:sing,
+35 job_title:singer,
+36 job_title:songwriter,
+37 job_title:sound
+38 job_title:specialist
+39 job_title:student
+40 job_title:the
+41 job_title:to
+42 job_title:web
+43 job_title:writer
+44 last_name:adrian
+45 last_name:ashley
+46 last_name:carlos
+47 last_name:chris
+48 last_name:daniel
+49 last_name:david
+50 last_name:diana
+51 last_name:joe
+52 last_name:jose
+53 last_name:josh
+54 last_name:justin
+55 last_name:luis
+56 last_name:mark
+57 last_name:matt
+58 last_name:mirs
+59 last_name:paul
+60 place:Asheville NC
+61 place:Atlanta
+62 place:Atlanta, GA
+63 place:Bogota
+64 place:Brunswick, ME
+65 place:Caracas
+66 place:Los Angeles
+67 place:Los Angeles, CA
+68 place:Miami
+69 place:Miami, FL
+70 place:Orlando, FL
+71 university:Florida International University
+72 university:Full Sail University
+73 university:Miami Dade College

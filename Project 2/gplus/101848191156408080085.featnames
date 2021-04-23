@@ -1,0 +1,63 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Self Employed
+5 job_title:&
+6 job_title:/
+7 job_title:a
+8 job_title:and
+9 job_title:at
+10 job_title:blogger,
+11 job_title:culture
+12 job_title:designer
+13 job_title:designer,
+14 job_title:developer
+15 job_title:engineer
+16 job_title:english
+17 job_title:entrepreneur
+18 job_title:for
+19 job_title:freelance
+20 job_title:i
+21 job_title:japan
+22 job_title:japanese
+23 job_title:language
+24 job_title:make
+25 job_title:media
+26 job_title:music
+27 job_title:musician
+28 job_title:of
+29 job_title:photographer
+30 job_title:photographer,
+31 job_title:software
+32 job_title:teacher
+33 job_title:teacher,
+34 job_title:translator
+35 job_title:user
+36 job_title:vlogger,
+37 job_title:web
+38 job_title:writer
+39 job_title:writer,
+40 last_name:andrew
+41 last_name:chris
+42 last_name:daniel
+43 last_name:david
+44 last_name:hiroko
+45 last_name:james
+46 last_name:jason
+47 last_name:jeff
+48 last_name:ken
+49 last_name:matt
+50 last_name:michael
+51 place:Japan
+52 place:London
+53 place:Nagoya
+54 place:Nagoya, Japan
+55 place:New York
+56 place:Singapore
+57 place:Tokyo
+58 place:Tokyo, Japan
+59 place:Yokohama, Japan
+60 university:Keio University
+61 university:Waseda University
+62 university:non-ascii_62

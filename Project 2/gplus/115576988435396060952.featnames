@@ -1,0 +1,313 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Best Buy
+5 institution:Canonical Ltd.
+6 institution:Google
+7 institution:IBM
+8 institution:Linux Foundation
+9 institution:Microsoft
+10 institution:Novell
+11 institution:Rackspace
+12 institution:Red Hat
+13 institution:Self Employed
+14 institution:The Linux Foundation
+15 institution:Unisys
+16 institution:VA Linux Systems
+17 job_title:&
+18 job_title:-
+19 job_title:/
+20 job_title:4
+21 job_title::)
+22 job_title:a
+23 job_title:about
+24 job_title:admin
+25 job_title:administrator
+26 job_title:advocate
+27 job_title:all
+28 job_title:also
+29 job_title:am
+30 job_title:an
+31 job_title:analyst
+32 job_title:and
+33 job_title:are
+34 job_title:artist
+35 job_title:artist,
+36 job_title:as
+37 job_title:assistant
+38 job_title:at
+39 job_title:author
+40 job_title:author,
+41 job_title:biblical
+42 job_title:blogger
+43 job_title:broadcaster
+44 job_title:business
+45 job_title:by
+46 job_title:candidate
+47 job_title:ceo
+48 job_title:code
+49 job_title:community
+50 job_title:computer
+51 job_title:computers
+52 job_title:computing
+53 job_title:consultant
+54 job_title:coordinator
+55 job_title:creator
+56 job_title:data
+57 job_title:design
+58 job_title:developer
+59 job_title:development
+60 job_title:director
+61 job_title:do
+62 job_title:driver
+63 job_title:editor,
+64 job_title:education
+65 job_title:electrical
+66 job_title:embedded
+67 job_title:engineer
+68 job_title:engineer,
+69 job_title:engineering
+70 job_title:entrepreneur
+71 job_title:expert
+72 job_title:father,
+73 job_title:for
+74 job_title:founder
+75 job_title:free
+76 job_title:from
+77 job_title:geek
+78 job_title:geekery
+79 job_title:get
+80 job_title:grad
+81 job_title:hacker
+82 job_title:hacker,
+83 job_title:help
+84 job_title:home
+85 job_title:host
+86 job_title:husband,
+87 job_title:i
+88 job_title:i'm
+89 job_title:in
+90 job_title:information
+91 job_title:internet
+92 job_title:is
+93 job_title:it
+94 job_title:it.
+95 job_title:journalist
+96 job_title:journalist,
+97 job_title:lead
+98 job_title:life
+99 job_title:linux
+100 job_title:linux,
+101 job_title:linux/open
+102 job_title:management
+103 job_title:manager
+104 job_title:marketing
+105 job_title:master
+106 job_title:media
+107 job_title:monkey
+108 job_title:my
+109 job_title:network
+110 job_title:networking
+111 job_title:not
+112 job_title:of
+113 job_title:office
+114 job_title:on
+115 job_title:online
+116 job_title:open
+117 job_title:own
+118 job_title:owner
+119 job_title:people
+120 job_title:photographer
+121 job_title:photography,
+122 job_title:podcaster
+123 job_title:podcaster,
+124 job_title:product
+125 job_title:program
+126 job_title:programmer
+127 job_title:programmer,
+128 job_title:programming
+129 job_title:programs
+130 job_title:project
+131 job_title:public
+132 job_title:radio
+133 job_title:recovery
+134 job_title:repair
+135 job_title:retired
+136 job_title:rf
+137 job_title:sales
+138 job_title:senior
+139 job_title:service
+140 job_title:shop
+141 job_title:software
+142 job_title:sorts
+143 job_title:source
+144 job_title:stay
+145 job_title:student
+146 job_title:student,
+147 job_title:support
+148 job_title:sysadmin
+149 job_title:system
+150 job_title:systems
+151 job_title:teacher
+152 job_title:tech
+153 job_title:technical
+154 job_title:technician
+155 job_title:technology
+156 job_title:the
+157 job_title:their
+158 job_title:this
+159 job_title:to
+160 job_title:truck
+161 job_title:value
+162 job_title:volunteer
+163 job_title:web
+164 job_title:wedding
+165 job_title:what
+166 job_title:who
+167 job_title:with
+168 job_title:world,
+169 job_title:writer
+170 job_title:writer,
+171 job_title:writing,
+172 job_title:you
+173 job_title:|
+174 last_name:aaron
+175 last_name:al
+176 last_name:alan
+177 last_name:andy
+178 last_name:ben
+179 last_name:bill
+180 last_name:bob
+181 last_name:brian
+182 last_name:bruce
+183 last_name:bryan
+184 last_name:chad
+185 last_name:charles
+186 last_name:chris
+187 last_name:chuck
+188 last_name:cody
+189 last_name:dan
+190 last_name:daniel
+191 last_name:darren
+192 last_name:dave
+193 last_name:david
+194 last_name:dennis
+195 last_name:ed
+196 last_name:frank
+197 last_name:greg
+198 last_name:ian
+199 last_name:james
+200 last_name:jason
+201 last_name:jay
+202 last_name:jeff
+203 last_name:jeremy
+204 last_name:jessica
+205 last_name:jim
+206 last_name:joe
+207 last_name:john
+208 last_name:jon
+209 last_name:jonathan
+210 last_name:josh
+211 last_name:ken
+212 last_name:kevin
+213 last_name:kris
+214 last_name:larry
+215 last_name:mark
+216 last_name:matt
+217 last_name:matthew
+218 last_name:michael
+219 last_name:mike
+220 last_name:nathan
+221 last_name:neil
+222 last_name:nick
+223 last_name:patrick
+224 last_name:paul
+225 last_name:peter
+226 last_name:randy
+227 last_name:richard
+228 last_name:rob
+229 last_name:robert
+230 last_name:ron
+231 last_name:russ
+232 last_name:ryan
+233 last_name:scott
+234 last_name:sean
+235 last_name:shaun
+236 last_name:simon
+237 last_name:stephen
+238 last_name:steve
+239 last_name:steven
+240 last_name:terry
+241 last_name:tim
+242 last_name:todd
+243 last_name:will
+244 last_name:william
+245 place:Aberystwyth, Wales
+246 place:Anchorage, AK
+247 place:Atlanta, GA
+248 place:Austin, TX
+249 place:Berkeley, CA
+250 place:Buenos Aires
+251 place:California
+252 place:Cambridge, MA
+253 place:Cape Town
+254 place:Charlotte, NC
+255 place:Chicago
+256 place:Chicago, IL
+257 place:Cincinnati, OH
+258 place:Czech Republic
+259 place:Dallas, TX
+260 place:Denver, CO
+261 place:Easton, PA
+262 place:England
+263 place:Erie, PA
+264 place:Florida
+265 place:France
+266 place:Frankfurt, Germany
+267 place:Guam
+268 place:Harrisburg, PA
+269 place:Hawaii
+270 place:Illinois
+271 place:Indianapolis, IN
+272 place:Ireland
+273 place:London
+274 place:Los Angeles, CA
+275 place:Los Angeles, California
+276 place:Lubbock, TX
+277 place:Maryland
+278 place:Mclean, VA
+279 place:Mission Viejo, California
+280 place:Muskegon, MI
+281 place:Muskegon, Michigan
+282 place:New Jersey
+283 place:New Orleans, LA
+284 place:New York
+285 place:Ohio
+286 place:Phoenix, AZ
+287 place:Pittsburgh, PA
+288 place:Portland, Oregon
+289 place:Rochester, NY
+290 place:San Antonio, TX
+291 place:San Diego, CA
+292 place:San Francisco
+293 place:San Francisco, CA
+294 place:Santa Barbara
+295 place:Santa Cruz
+296 place:Seattle, Washington
+297 place:St. Louis, MO
+298 place:Toronto, Ontario
+299 place:Tulsa, Oklahoma
+300 place:Virginia
+301 place:Washington, DC
+302 university:Arizona State University
+303 university:Ball State University
+304 university:DeVry University
+305 university:Hard Knocks
+306 university:ITT Technical Institute
+307 university:MIT
+308 university:Michigan State University
+309 university:Stanford University
+310 university:University of Michigan
+311 university:University of Phoenix
+312 university:University of Utah

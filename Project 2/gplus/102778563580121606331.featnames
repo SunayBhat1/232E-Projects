@@ -1,0 +1,992 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Al Jazeera
+5 institution:Al Jazeera Network
+6 institution:AmeriCorps
+7 institution:Arch Linux
+8 institution:Best Buy
+9 institution:Cavalier County Sheriff's Office
+10 institution:Design the Planet
+11 institution:Free Press
+12 institution:Freelance
+13 institution:GTECH Corporation
+14 institution:Gentoo Foundation
+15 institution:Google
+16 institution:Hewlett-Packard
+17 institution:IBM
+18 institution:Linux Foundation
+19 institution:Microsoft
+20 institution:MoveOn.org
+21 institution:OCA
+22 institution:Self
+23 institution:Self Employed
+24 institution:Self-Employed
+25 institution:Self-employed
+26 institution:Student
+27 institution:Sun Microsystems
+28 institution:Synopsys
+29 institution:The Huffington Post
+30 institution:Tulane University
+31 institution:Unemployed
+32 institution:United States Air Force
+33 institution:United States House of Representatives
+34 institution:University of Michigan
+35 institution:Yahoo!
+36 institution:Yatmedia LLC
+37 institution:self
+38 job_title:&
+39 job_title:,
+40 job_title:-
+41 job_title:/
+42 job_title:3d
+43 job_title::)
+44 job_title::-)
+45 job_title::p
+46 job_title:;)
+47 job_title:@
+48 job_title:a
+49 job_title:about
+50 job_title:activist
+51 job_title:activist,
+52 job_title:admin
+53 job_title:administrator
+54 job_title:administrator,
+55 job_title:advocate
+56 job_title:advocate,
+57 job_title:affairs
+58 job_title:all
+59 job_title:also
+60 job_title:am
+61 job_title:amateur
+62 job_title:american
+63 job_title:an
+64 job_title:analyst
+65 job_title:and
+66 job_title:android
+67 job_title:any
+68 job_title:anyone
+69 job_title:anything
+70 job_title:apple
+71 job_title:archaeologist
+72 job_title:architect
+73 job_title:architect,
+74 job_title:are
+75 job_title:art
+76 job_title:artist
+77 job_title:artist,
+78 job_title:artist.
+79 job_title:arts
+80 job_title:as
+81 job_title:assistant
+82 job_title:at
+83 job_title:attorney
+84 job_title:attorney,
+85 job_title:audio
+86 job_title:author
+87 job_title:author,
+88 job_title:bank
+89 job_title:based
+90 job_title:be
+91 job_title:being
+92 job_title:best
+93 job_title:blogger
+94 job_title:blogger,
+95 job_title:blogging
+96 job_title:book
+97 job_title:brand
+98 job_title:bring
+99 job_title:broadcast
+100 job_title:build
+101 job_title:business
+102 job_title:businesses
+103 job_title:but
+104 job_title:by
+105 job_title:can
+106 job_title:can't
+107 job_title:care
+108 job_title:ceo
+109 job_title:certified
+110 job_title:chef
+111 job_title:chief
+112 job_title:child
+113 job_title:citizen
+114 job_title:city
+115 job_title:class
+116 job_title:climate
+117 job_title:co-founder
+118 job_title:coach,
+119 job_title:code
+120 job_title:cognitive
+121 job_title:communication
+122 job_title:communications
+123 job_title:community
+124 job_title:company
+125 job_title:computer
+126 job_title:computers,
+127 job_title:computing
+128 job_title:consultant
+129 job_title:consultant,
+130 job_title:consulting
+131 job_title:consumer
+132 job_title:content
+133 job_title:coordinator
+134 job_title:correctional
+135 job_title:counselor
+136 job_title:creating
+137 job_title:creative
+138 job_title:creator
+139 job_title:criminal
+140 job_title:critic,
+141 job_title:cruncher
+142 job_title:curator
+143 job_title:customer
+144 job_title:customers
+145 job_title:dad,
+146 job_title:data
+147 job_title:database
+148 job_title:dba
+149 job_title:de
+150 job_title:defensor
+151 job_title:deputy
+152 job_title:derechos
+153 job_title:design
+154 job_title:design,
+155 job_title:designer
+156 job_title:designer,
+157 job_title:developer
+158 job_title:developer,
+159 job_title:development
+160 job_title:development,
+161 job_title:digital
+162 job_title:director
+163 job_title:director,
+164 job_title:do
+165 job_title:do?
+166 job_title:doing
+167 job_title:domestic
+168 job_title:don't
+169 job_title:eco
+170 job_title:economic
+171 job_title:editor
+172 job_title:editor,
+173 job_title:education
+174 job_title:educator
+175 job_title:educator,
+176 job_title:energy
+177 job_title:energy,
+178 job_title:engineer
+179 job_title:engineer,
+180 job_title:engineering
+181 job_title:english
+182 job_title:enjoying
+183 job_title:enthusiast
+184 job_title:entrepreneur
+185 job_title:entrepreneur,
+186 job_title:every
+187 job_title:executive
+188 job_title:exist
+189 job_title:experience
+190 job_title:expert,
+191 job_title:family
+192 job_title:father
+193 job_title:father,
+194 job_title:field
+195 job_title:film
+196 job_title:food
+197 job_title:for
+198 job_title:forex
+199 job_title:former
+200 job_title:founder
+201 job_title:free
+202 job_title:freelance
+203 job_title:from
+204 job_title:full
+205 job_title:full-time
+206 job_title:future
+207 job_title:game
+208 job_title:geek
+209 job_title:geek,
+210 job_title:geek.
+211 job_title:general
+212 job_title:google
+213 job_title:graduate
+214 job_title:graphic
+215 job_title:green
+216 job_title:group
+217 job_title:guy
+218 job_title:hacker
+219 job_title:have
+220 job_title:head
+221 job_title:health
+222 job_title:healthcare
+223 job_title:help
+224 job_title:here
+225 job_title:home
+226 job_title:host
+227 job_title:humanos
+228 job_title:husband
+229 job_title:husband,
+230 job_title:i
+231 job_title:i'm
+232 job_title:if
+233 job_title:im
+234 job_title:in
+235 job_title:independent
+236 job_title:industry
+237 job_title:information
+238 job_title:instructor
+239 job_title:instructor,
+240 job_title:insurance
+241 job_title:internet
+242 job_title:is
+243 job_title:it
+244 job_title:it,
+245 job_title:it.
+246 job_title:its
+247 job_title:journalism
+248 job_title:journalism,
+249 job_title:journalist
+250 job_title:journalist,
+251 job_title:just
+252 job_title:language
+253 job_title:law
+254 job_title:lawyer
+255 job_title:lead
+256 job_title:level
+257 job_title:library
+258 job_title:life
+259 job_title:life,
+260 job_title:linux
+261 job_title:little
+262 job_title:live
+263 job_title:living
+264 job_title:looking
+265 job_title:lover
+266 job_title:loving
+267 job_title:maintain
+268 job_title:make
+269 job_title:maker,
+270 job_title:management
+271 job_title:management,
+272 job_title:manager
+273 job_title:manager,
+274 job_title:managing
+275 job_title:many
+276 job_title:marketing
+277 job_title:marketing,
+278 job_title:master
+279 job_title:mba
+280 job_title:media
+281 job_title:medical
+282 job_title:medicine
+283 job_title:microsoft
+284 job_title:ministry
+285 job_title:mobile
+286 job_title:mom
+287 job_title:mom,
+288 job_title:money
+289 job_title:monkey
+290 job_title:more
+291 job_title:much
+292 job_title:multimedia
+293 job_title:music
+294 job_title:musician
+295 job_title:musician,
+296 job_title:my
+297 job_title:natural
+298 job_title:needs
+299 job_title:network
+300 job_title:new
+301 job_title:ninja
+302 job_title:no
+303 job_title:not
+304 job_title:not.
+305 job_title:nothing
+306 job_title:now
+307 job_title:number
+308 job_title:occasional
+309 job_title:occupation.
+310 job_title:occupy
+311 job_title:of
+312 job_title:office
+313 job_title:officer
+314 job_title:oh
+315 job_title:on
+316 job_title:one
+317 job_title:online
+318 job_title:open
+319 job_title:or
+320 job_title:organizer,
+321 job_title:orleans
+322 job_title:other
+323 job_title:others
+324 job_title:our
+325 job_title:oversee
+326 job_title:own
+327 job_title:owner
+328 job_title:part
+329 job_title:pc
+330 job_title:peaceful
+331 job_title:people
+332 job_title:personal
+333 job_title:photographer
+334 job_title:photographer,
+335 job_title:photography
+336 job_title:photography,
+337 job_title:planning
+338 job_title:poet,
+339 job_title:political
+340 job_title:post
+341 job_title:power
+342 job_title:president
+343 job_title:president,
+344 job_title:press
+345 job_title:problem
+346 job_title:producer
+347 job_title:producer,
+348 job_title:professional
+349 job_title:professor
+350 job_title:professor,
+351 job_title:programmer
+352 job_title:programmer,
+353 job_title:programming
+354 job_title:progressive
+355 job_title:project
+356 job_title:protest
+357 job_title:public
+358 job_title:publisher
+359 job_title:publisher,
+360 job_title:qa
+361 job_title:quality
+362 job_title:radio
+363 job_title:real
+364 job_title:recovering
+365 job_title:relations
+366 job_title:repair
+367 job_title:repair,
+368 job_title:repairs
+369 job_title:reporter
+370 job_title:research
+371 job_title:research,
+372 job_title:researcher,
+373 job_title:retail
+374 job_title:retailer
+375 job_title:retired
+376 job_title:rock
+377 job_title:sales
+378 job_title:school
+379 job_title:science
+380 job_title:security
+381 job_title:seeker
+382 job_title:seeking
+383 job_title:senior
+384 job_title:seo,
+385 job_title:server
+386 job_title:service
+387 job_title:shit
+388 job_title:shop
+389 job_title:side
+390 job_title:singer,
+391 job_title:site
+392 job_title:skills
+393 job_title:small
+394 job_title:social
+395 job_title:software
+396 job_title:solar
+397 job_title:solution
+398 job_title:solutions
+399 job_title:solutions,
+400 job_title:songwriter
+401 job_title:source
+402 job_title:specialist
+403 job_title:spirits
+404 job_title:stay-at-home
+405 job_title:strategist
+406 job_title:strategist,
+407 job_title:strategy
+408 job_title:streets
+409 job_title:structural
+410 job_title:student
+411 job_title:student,
+412 job_title:stuff
+413 job_title:such
+414 job_title:support
+415 job_title:sysadmin
+416 job_title:system
+417 job_title:systems
+418 job_title:systems,
+419 job_title:taking
+420 job_title:teach
+421 job_title:teacher
+422 job_title:teaching
+423 job_title:team
+424 job_title:tech
+425 job_title:tech.
+426 job_title:techie,
+427 job_title:technical
+428 job_title:technician
+429 job_title:technologies
+430 job_title:technologist,
+431 job_title:technology
+432 job_title:that
+433 job_title:that's
+434 job_title:the
+435 job_title:then
+436 job_title:these
+437 job_title:things
+438 job_title:this
+439 job_title:those
+440 job_title:through
+441 job_title:time
+442 job_title:to
+443 job_title:today
+444 job_title:too
+445 job_title:trader
+446 job_title:traffic
+447 job_title:trainer,
+448 job_title:training
+449 job_title:translator
+450 job_title:truth
+451 job_title:trying
+452 job_title:tv
+453 job_title:unemployed
+454 job_title:upon
+455 job_title:used
+456 job_title:video
+457 job_title:voice
+458 job_title:volunteer
+459 job_title:w/my
+460 job_title:wannabe
+461 job_title:want
+462 job_title:wave
+463 job_title:we
+464 job_title:web
+465 job_title:website
+466 job_title:well
+467 job_title:what
+468 job_title:whatever
+469 job_title:when
+470 job_title:who
+471 job_title:will
+472 job_title:wine
+473 job_title:with
+474 job_title:without
+475 job_title:work
+476 job_title:working
+477 job_title:world
+478 job_title:world,
+479 job_title:write
+480 job_title:writer
+481 job_title:writer,
+482 job_title:writer.
+483 job_title:writing
+484 job_title:york
+485 job_title:you
+486 last_name:aaron
+487 last_name:adam
+488 last_name:ahmed
+489 last_name:aimee
+490 last_name:al
+491 last_name:alan
+492 last_name:alex
+493 last_name:ali
+494 last_name:alice
+495 last_name:allan
+496 last_name:allison
+497 last_name:amy
+498 last_name:andrea
+499 last_name:andrew
+500 last_name:andy
+501 last_name:anita
+502 last_name:annie
+503 last_name:anthony
+504 last_name:barry
+505 last_name:ben
+506 last_name:benjamin
+507 last_name:bernard
+508 last_name:bernie
+509 last_name:beth
+510 last_name:bill
+511 last_name:bob
+512 last_name:brad
+513 last_name:brandon
+514 last_name:brenda
+515 last_name:brian
+516 last_name:bruce
+517 last_name:bryan
+518 last_name:cal
+519 last_name:carl
+520 last_name:carlos
+521 last_name:chad
+522 last_name:charles
+523 last_name:chris
+524 last_name:christian
+525 last_name:christina
+526 last_name:christopher
+527 last_name:cindy
+528 last_name:cody
+529 last_name:craig
+530 last_name:dan
+531 last_name:dana
+532 last_name:daniel
+533 last_name:darren
+534 last_name:daryl
+535 last_name:dave
+536 last_name:david
+537 last_name:dawn
+538 last_name:denise
+539 last_name:derek
+540 last_name:ed
+541 last_name:edward
+542 last_name:eric
+543 last_name:evan
+544 last_name:frank
+545 last_name:gareth
+546 last_name:gary
+547 last_name:george
+548 last_name:gina
+549 last_name:glenn
+550 last_name:greg
+551 last_name:heather
+552 last_name:henry
+553 last_name:ian
+554 last_name:israel
+555 last_name:jack
+556 last_name:jake
+557 last_name:james
+558 last_name:jamie
+559 last_name:jane
+560 last_name:jared
+561 last_name:jason
+562 last_name:jay
+563 last_name:jeff
+564 last_name:jennifer
+565 last_name:jenny
+566 last_name:jeremy
+567 last_name:jerry
+568 last_name:jesse
+569 last_name:jessica
+570 last_name:jim
+571 last_name:jimmy
+572 last_name:joe
+573 last_name:joel
+574 last_name:john
+575 last_name:jon
+576 last_name:jonathan
+577 last_name:josh
+578 last_name:joshua
+579 last_name:juan
+580 last_name:julia
+581 last_name:karen
+582 last_name:karim
+583 last_name:kate
+584 last_name:katherine
+585 last_name:keith
+586 last_name:kelly
+587 last_name:ken
+588 last_name:kevin
+589 last_name:kim
+590 last_name:kyle
+591 last_name:lee
+592 last_name:liam
+593 last_name:lindsey
+594 last_name:lisa
+595 last_name:liz
+596 last_name:louis
+597 last_name:m
+598 last_name:mandy
+599 last_name:margaret
+600 last_name:mari
+601 last_name:mark
+602 last_name:martin
+603 last_name:mathew
+604 last_name:matt
+605 last_name:matthew
+606 last_name:melissa
+607 last_name:melody
+608 last_name:michael
+609 last_name:michal
+610 last_name:michelle
+611 last_name:miguel
+612 last_name:mike
+613 last_name:mohammad
+614 last_name:molly
+615 last_name:moose
+616 last_name:nathan
+617 last_name:nicholas
+618 last_name:nola
+619 last_name:occupy
+620 last_name:occupy albany
+621 last_name:occupy chicago
+622 last_name:occupy portland
+623 last_name:occupy wall street
+624 last_name:pamela
+625 last_name:patrick
+626 last_name:paul
+627 last_name:pedro
+628 last_name:pete
+629 last_name:peter
+630 last_name:rachel
+631 last_name:randy
+632 last_name:ray
+633 last_name:rich
+634 last_name:richard
+635 last_name:rob
+636 last_name:robert
+637 last_name:robin
+638 last_name:ron
+639 last_name:russ
+640 last_name:ryan
+641 last_name:sara
+642 last_name:sarah
+643 last_name:scott
+644 last_name:sean
+645 last_name:sharon
+646 last_name:shawn
+647 last_name:stacey
+648 last_name:stephen
+649 last_name:steve
+650 last_name:susan
+651 last_name:suzanne
+652 last_name:ted
+653 last_name:terry
+654 last_name:thom
+655 last_name:thomas
+656 last_name:tim
+657 last_name:timothy
+658 last_name:todd
+659 last_name:tom
+660 last_name:tony
+661 last_name:tracie
+662 last_name:tracy
+663 last_name:walter
+664 last_name:wayne
+665 last_name:william
+666 last_name:yahya
+667 place:
+668 place:Adelaide
+669 place:Albuquerque
+670 place:Albuquerque, NM
+671 place:Annapolis, Maryland
+672 place:Antarctica
+673 place:Appleton, WI
+674 place:Arizona
+675 place:Arlington, VA
+676 place:Arlington, Virginia
+677 place:Athens, OH
+678 place:Atlanta
+679 place:Atlanta, GA
+680 place:Atlanta, Georgia
+681 place:Auckland, New Zealand
+682 place:Augusta, GA
+683 place:Austin
+684 place:Austin, TX
+685 place:Austin, Texas
+686 place:Baltimore, MD
+687 place:Bangkok, Thailand
+688 place:Baton Rouge
+689 place:Baton Rouge, LA
+690 place:Baton Rouge, Louisiana
+691 place:Bayside, NY
+692 place:Beijing
+693 place:Bellevue, WA
+694 place:Bellingham, WA
+695 place:Bend, OR
+696 place:Berlin
+697 place:Berlin, Germany
+698 place:Biloxi, MS
+699 place:Bluffton, SC
+700 place:Bordeaux
+701 place:Boston
+702 place:Boston, MA
+703 place:Boston, Mass
+704 place:Bronx, NY
+705 place:Brooklyn, NY
+706 place:Budapest, Hungary
+707 place:Buffalo, NY
+708 place:Burbank, CA
+709 place:Cairo
+710 place:California
+711 place:Cambridge, England
+712 place:Cambridge, MA
+713 place:Canada
+714 place:Canberra
+715 place:Charleston SC
+716 place:Charlotte, NC
+717 place:Charlottesville, VA
+718 place:Chicago
+719 place:Chicago, IL
+720 place:Chittagong
+721 place:Christchurch, New Zealand
+722 place:Cincinnati, OH
+723 place:Claremont, CA
+724 place:College Station, Texas
+725 place:Colorado
+726 place:Columbus, OH
+727 place:Copenhagen, Denmark
+728 place:Corpus Christi, TX
+729 place:Dallas
+730 place:Dallas, TX
+731 place:Dallas, Texas
+732 place:Damascus, Syria
+733 place:Dayton, OH
+734 place:Denver, CO
+735 place:Detroit, MI
+736 place:Dubai
+737 place:Dublin
+738 place:Durham, NC
+739 place:Earth
+740 place:Egypt
+741 place:Eugene, OR
+742 place:Eugene, Oregon
+743 place:Evanston, IL
+744 place:Fayetteville, AR
+745 place:Fayetteville, North Carolina
+746 place:Flagstaff, AZ
+747 place:Florida
+748 place:Folsom, CA
+749 place:Fort Leavenworth, Kansas
+750 place:Fort Worth, Texas
+751 place:Frankfurt, Germany
+752 place:Gainesville, FL
+753 place:Geneva
+754 place:Germany
+755 place:Ghent
+756 place:Harker Heights, TX
+757 place:Harrisburg, PA
+758 place:Hattiesburg, MS
+759 place:Hawaii
+760 place:Hell
+761 place:Holland
+762 place:Hong Kong
+763 place:Houston
+764 place:Houston, TX
+765 place:Houston, Texas
+766 place:Huntington, WV
+767 place:Indiana
+768 place:Indianapolis, IN
+769 place:Iowa
+770 place:Iowa City, IA
+771 place:Jackson, MS
+772 place:Jacksonville, FL
+773 place:Japan
+774 place:Kansas City, KS
+775 place:Kansas City, MO
+776 place:Kansas City, Missouri
+777 place:Kettering, Ohio
+778 place:Knoxville, TN
+779 place:Kuwait
+780 place:Las Vegas, NV
+781 place:Laurinburg, NC
+782 place:Leeds
+783 place:Lisbon
+784 place:Little Rock, AR
+785 place:London
+786 place:London, England
+787 place:London, UK
+788 place:Long Beach, CA
+789 place:Long Island
+790 place:Los Angeles
+791 place:Los Angeles, CA
+792 place:Louisiana
+793 place:Magnolia, AR
+794 place:Marietta, Georgia
+795 place:Melbourne
+796 place:Melbourne, Australia
+797 place:Memphis, TN
+798 place:Metairie, LA
+799 place:Miami
+800 place:Michigan
+801 place:Milwaukee
+802 place:Milwaukee, WI
+803 place:Minneapolis, MN
+804 place:Minnesota
+805 place:Missouri
+806 place:Mobile, AL
+807 place:Nairobi
+808 place:Naples, Italy
+809 place:Nashville
+810 place:Nashville, TN
+811 place:Nashville, Tennessee
+812 place:New Brunswick, NJ
+813 place:New Hampshire
+814 place:New Haven, CT
+815 place:New Jersey
+816 place:New Orleans
+817 place:New Orleans, LA
+818 place:New Orleans, La
+819 place:New Orleans, Louisiana
+820 place:New York
+821 place:New York City
+822 place:New York City, NY
+823 place:New York, NY
+824 place:Norfolk, VA
+825 place:Oakland, CA
+826 place:Oceanside, CA
+827 place:Ohio
+828 place:Oklahoma City, Oklahoma
+829 place:Oxnard, CA
+830 place:Palo Alto
+831 place:Palo Alto, CA
+832 place:Panama
+833 place:Paris
+834 place:Paris, France
+835 place:Philadelphia
+836 place:Philadelphia, PA
+837 place:Pittsburgh, PA
+838 place:Placerville, CA
+839 place:Plano, TX
+840 place:Portland, OR
+841 place:Portland, Oregon
+842 place:Poughkeepsie, NY
+843 place:Princeton, NJ
+844 place:Quincy, MA
+845 place:Raleigh, NC
+846 place:Reno, NV
+847 place:Richmond
+848 place:Richmond, IN
+849 place:Richmond, VA
+850 place:Rio de Janeiro
+851 place:Rochester, NY
+852 place:Sacramento, CA
+853 place:Salem, OR
+854 place:Salt Lake City, UT
+855 place:San Antonio
+856 place:San Antonio, TX
+857 place:San Diego
+858 place:San Diego, CA
+859 place:San Francisco
+860 place:San Francisco, CA
+861 place:San Francisco, California
+862 place:San Jose, CA
+863 place:San Juan, Puerto Rico
+864 place:Santa Cruz, CA
+865 place:Santa Cruz, California
+866 place:Santa Maria, CA
+867 place:Saudi Arabia
+868 place:Savannah, GA
+869 place:Scotland
+870 place:Seattle
+871 place:Seattle, WA
+872 place:Seoul, Korea
+873 place:Shanghai
+874 place:Sheffield
+875 place:Shreveport, LA
+876 place:Singapore
+877 place:Sitka, AK
+878 place:Skopje
+879 place:Staten Island, NY
+880 place:Stillwater, OK
+881 place:Sydney
+882 place:Sydney, Australia
+883 place:non-ascii_883
+884 place:Tacoma, WA
+885 place:Taipei
+886 place:Taipei, Taiwan
+887 place:Tallahassee, FL
+888 place:Texas
+889 place:Tokyo
+890 place:Toledo, OH
+891 place:Toronto
+892 place:Toronto, Canada
+893 place:Tucson, AZ
+894 place:Tuscaloosa, AL
+895 place:Vancouver
+896 place:Vancouver, BC
+897 place:Virginia Beach, VA
+898 place:Washington D.C.
+899 place:Washington DC
+900 place:Washington, D.C.
+901 place:Washington, DC
+902 place:Wolfville, NS
+903 place:York, PA
+904 place:Zurich
+905 place:brooklyn, ny
+906 place:new orleans, la
+907 place:san diego, ca
+908 place:san francisco, ca
+909 university:
+910 university:Acadia University
+911 university:American InterContinental University
+912 university:American University
+913 university:American University in Cairo
+914 university:Arizona State University
+915 university:Benjamin Franklin High School
+916 university:Boston University
+917 university:Brother Martin High School
+918 university:California State University, Los Angeles
+919 university:Carleton University
+920 university:Cleveland State University
+921 university:Collin College
+922 university:Columbia College Chicago
+923 university:Columbia University
+924 university:Community College of Rhode Island
+925 university:DeVry University
+926 university:Dillard University
+927 university:Florida State University
+928 university:Google University
+929 university:Hard Knocks
+930 university:Harvard University
+931 university:ITT Technical Institute
+932 university:Illinois State University
+933 university:Indiana University
+934 university:Indiana University East
+935 university:Kaplan University
+936 university:LSU
+937 university:Langdon High School
+938 university:Life
+939 university:Louisiana State University
+940 university:Louisiana Tech University
+941 university:Loyola University New Orleans
+942 university:MIT
+943 university:Mississippi State University
+944 university:National University of Singapore
+945 university:New York University
+946 university:Nicholls State University
+947 university:Northern Illinois University
+948 university:Northland Community & Technical College
+949 university:Northwestern University
+950 university:Ohio State University
+951 university:non-ascii_951
+952 university:Our Lady of Holy Cross College
+953 university:Pennsylvania State University
+954 university:Princeton University
+955 university:Purdue University
+956 university:Queen's University
+957 university:Rhode Island College
+958 university:San Diego State University
+959 university:Santa Clara University
+960 university:Southeastern Louisiana University
+961 university:Stanford University
+962 university:The Art Institute of Dallas
+963 university:Tulane University
+964 university:Tulane University Law School
+965 university:UCLA
+966 university:University of Alabama
+967 university:University of Arizona
+968 university:University of British Columbia
+969 university:University of California, Berkeley
+970 university:University of California, Los Angeles
+971 university:University of California, Santa Barbara
+972 university:University of Georgia
+973 university:University of Houston
+974 university:University of Iowa
+975 university:University of Louisiana at Lafayette
+976 university:University of Michigan
+977 university:University of New Hampshire
+978 university:University of New Orleans
+979 university:University of North Texas
+980 university:University of Oxford
+981 university:University of Pennsylvania
+982 university:University of Phoenix
+983 university:University of Southern Mississippi
+984 university:University of Toronto
+985 university:University of Victoria
+986 university:University of Washington
+987 university:University of the Philippines, Diliman
+988 university:Virginia Commonwealth University
+989 university:Worcester Polytechnic Institute
+990 university:Youngstown State University
+991 university:engineering

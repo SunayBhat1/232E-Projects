@@ -1,0 +1,316 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:1UP
+5 institution:1UP.com
+6 institution:Alderac Entertainment Group
+7 institution:Apple Inc.
+8 institution:Bing
+9 institution:Cartoon Network Studios
+10 institution:DC Comics
+11 institution:Facebook
+12 institution:Fantasy Flight Games
+13 institution:Freelance
+14 institution:Freelance Illustrator
+15 institution:GayGamer.net
+16 institution:Google
+17 institution:Google Creative Lab
+18 institution:Google Inc.
+19 institution:IGN
+20 institution:Imaginism Studios
+21 institution:Microsoft
+22 institution:Microsoft Bing
+23 institution:Paizo Publishing
+24 institution:Radical Entertainment
+25 institution:Self
+26 institution:Sony Computer Entertainment America
+27 institution:TechTV
+28 institution:The New York Times
+29 institution:VOLTA
+30 institution:Ziff Davis
+31 institution:Ziff-Davis Media
+32 institution:frog design inc.
+33 job_title:&
+34 job_title:+
+35 job_title:,
+36 job_title:-
+37 job_title:/
+38 job_title:3d
+39 job_title:a
+40 job_title:about
+41 job_title:activist,
+42 job_title:administrator
+43 job_title:advertising
+44 job_title:all
+45 job_title:amateur
+46 job_title:and
+47 job_title:animation
+48 job_title:animator,
+49 job_title:art
+50 job_title:art,
+51 job_title:artist
+52 job_title:artist,
+53 job_title:artist.
+54 job_title:as
+55 job_title:associate
+56 job_title:at
+57 job_title:being
+58 job_title:blogger
+59 job_title:blogger,
+60 job_title:cartoonist
+61 job_title:ceo
+62 job_title:chief
+63 job_title:community
+64 job_title:concept
+65 job_title:consultant
+66 job_title:creative
+67 job_title:design
+68 job_title:designer
+69 job_title:designer,
+70 job_title:developer
+71 job_title:developer,
+72 job_title:digital
+73 job_title:director
+74 job_title:draw
+75 job_title:editor
+76 job_title:editor,
+77 job_title:editor-in-chief
+78 job_title:engineer
+79 job_title:enthusiast,
+80 job_title:entrepreneur
+81 job_title:entrepreneur,
+82 job_title:experience
+83 job_title:fine
+84 job_title:for
+85 job_title:founder
+86 job_title:freelance
+87 job_title:game
+88 job_title:games
+89 job_title:google
+90 job_title:google+
+91 job_title:graphic
+92 job_title:guy
+93 job_title:i
+94 job_title:i'm
+95 job_title:illustration
+96 job_title:illustration,
+97 job_title:illustrator
+98 job_title:illustrator,
+99 job_title:in
+100 job_title:independent
+101 job_title:interaction
+102 job_title:interface
+103 job_title:international
+104 job_title:journalist
+105 job_title:landscape
+106 job_title:lead
+107 job_title:magazine
+108 job_title:make
+109 job_title:maker
+110 job_title:management
+111 job_title:manager
+112 job_title:marketing,
+113 job_title:media
+114 job_title:music,
+115 job_title:musician
+116 job_title:musician,
+117 job_title:my
+118 job_title:nerd
+119 job_title:new
+120 job_title:not
+121 job_title:of
+122 job_title:officer
+123 job_title:on
+124 job_title:owner
+125 job_title:people
+126 job_title:photo
+127 job_title:photographer
+128 job_title:photographer,
+129 job_title:photography
+130 job_title:photography,
+131 job_title:photos
+132 job_title:political
+133 job_title:producer
+134 job_title:product
+135 job_title:program
+136 job_title:programmer
+137 job_title:senior
+138 job_title:software
+139 job_title:sr.
+140 job_title:startup
+141 job_title:student
+142 job_title:support
+143 job_title:tech
+144 job_title:technology
+145 job_title:that
+146 job_title:the
+147 job_title:things.
+148 job_title:to
+149 job_title:try
+150 job_title:ui
+151 job_title:ui/ux
+152 job_title:user
+153 job_title:ux
+154 job_title:vice
+155 job_title:video
+156 job_title:videogame
+157 job_title:visual
+158 job_title:web
+159 job_title:work
+160 job_title:world
+161 job_title:write
+162 job_title:writer
+163 job_title:writer,
+164 job_title:xbox
+165 job_title:|
+166 last_name:adam
+167 last_name:alex
+168 last_name:andre
+169 last_name:andy
+170 last_name:anthony
+171 last_name:benjamin
+172 last_name:bobby
+173 last_name:bradley
+174 last_name:brian
+175 last_name:charles
+176 last_name:chris
+177 last_name:craig
+178 last_name:daniel
+179 last_name:david
+180 last_name:denis
+181 last_name:eric
+182 last_name:glenn
+183 last_name:ian
+184 last_name:james
+185 last_name:jean
+186 last_name:jeff
+187 last_name:jennifer
+188 last_name:jim
+189 last_name:john
+190 last_name:jon
+191 last_name:jonathan
+192 last_name:joseph
+193 last_name:josh
+194 last_name:justin
+195 last_name:karen
+196 last_name:keith
+197 last_name:kevin
+198 last_name:kieran
+199 last_name:kyle
+200 last_name:larry
+201 last_name:mark
+202 last_name:mathieu
+203 last_name:matt
+204 last_name:michael
+205 last_name:mike
+206 last_name:nate
+207 last_name:nathan
+208 last_name:nick
+209 last_name:nina
+210 last_name:patrick
+211 last_name:paul
+212 last_name:peter
+213 last_name:robert
+214 last_name:ruben
+215 last_name:ryan
+216 last_name:sam
+217 last_name:santiago
+218 last_name:scott
+219 last_name:sean
+220 last_name:simon
+221 last_name:stephan
+222 last_name:thomas
+223 last_name:tina
+224 last_name:tom
+225 last_name:tony
+226 last_name:travis
+227 last_name:william
+228 last_name:zac
+229 place:
+230 place:Ann Arbor, MI
+231 place:Austin, TX
+232 place:Barcelona
+233 place:Berkeley, CA
+234 place:Boston
+235 place:Boston, MA
+236 place:Brooklyn
+237 place:Cali, Colombia
+238 place:Charlotte, NC
+239 place:Chicago
+240 place:Chicago, IL
+241 place:Colorado Springs
+242 place:Columbus, OH
+243 place:Copenhagen
+244 place:Des Moines, IA
+245 place:Detroit, MI
+246 place:Duluth, MN
+247 place:Grand Rapids, MI
+248 place:Greensboro, NC
+249 place:Hamburg, Germany
+250 place:Honolulu
+251 place:Houston, TX
+252 place:Huntington Beach, CA
+253 place:Huntsville, AL
+254 place:Hyderabad
+255 place:Irvine, CA
+256 place:Jakarta
+257 place:Kansas City, MO
+258 place:Kyoto, Japan
+259 place:Lisboa
+260 place:London
+261 place:Los Angeles
+262 place:Los Angeles, CA
+263 place:Madrid
+264 place:Miami, FL
+265 place:Milano
+266 place:Minneapolis
+267 place:Minsk, Belarus
+268 place:Montpellier
+269 place:Mumbai
+270 place:NY
+271 place:New Jersey
+272 place:New York
+273 place:New York City
+274 place:New York, NY
+275 place:Ottawa, ON
+276 place:Paris
+277 place:Philadelphia
+278 place:Pittsburgh, PA
+279 place:Richmond, VA
+280 place:Rochester, NY
+281 place:San Francisco
+282 place:San Francisco, CA
+283 place:San Francisco, California
+284 place:Sarajevo, Bosnia
+285 place:Seattle
+286 place:Seattle, WA
+287 place:Seoul, Korea
+288 place:Taipei
+289 place:Tokyo
+290 place:Toronto
+291 place:Toronto, ON
+292 place:Vancouver
+293 place:Vancouver, BC
+294 place:seattle
+295 university:California Institute of the Arts
+296 university:Carnegie Mellon University
+297 university:Columbia University
+298 university:Harvard University
+299 university:Maryland Institute College of Art
+300 university:New York University
+301 university:Ontario College of Art & Design
+302 university:Parsons School of Design
+303 university:Ringling School of Art and Design
+304 university:San Francisco State University
+305 university:Savannah College of Art and Design
+306 university:School of Visual Arts
+307 university:Sheridan College
+308 university:Stanford University
+309 university:UC Berkeley
+310 university:UCLA
+311 university:University of Illinois at Urbana-Champaign
+312 university:University of Michigan
+313 university:University of North Carolina at Chapel Hill
+314 university:University of Rochester
+315 university:University of Washington

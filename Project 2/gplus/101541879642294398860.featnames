@@ -1,0 +1,396 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Astraea Press
+5 institution:Author
+6 institution:BlogHer
+7 institution:Carina Press
+8 institution:Decadent Publishing
+9 institution:General Electric
+10 institution:Harlequin Enterprises Ltd
+11 institution:Hellfire Publishing
+12 institution:Macmillan Publishers
+13 institution:Novel Publicity
+14 institution:Novelist
+15 institution:Passionate Writer Publishing
+16 institution:Random House
+17 institution:Samhain Publishing
+18 institution:Sapphire Blue Publishing
+19 institution:Self
+20 institution:Self Employed
+21 institution:Self-employed
+22 institution:Self-publishing
+23 institution:Simon & Schuster
+24 institution:Visual Artist
+25 institution:Writer
+26 job_title:&
+27 job_title:-
+28 job_title:/
+29 job_title::)
+30 job_title:a
+31 job_title:agent
+32 job_title:also
+33 job_title:am
+34 job_title:an
+35 job_title:and
+36 job_title:art
+37 job_title:artist
+38 job_title:artist,
+39 job_title:assistant
+40 job_title:at
+41 job_title:author
+42 job_title:author,
+43 job_title:author.
+44 job_title:authors
+45 job_title:big
+46 job_title:blog
+47 job_title:blogger
+48 job_title:blogger,
+49 job_title:book
+50 job_title:books
+51 job_title:books.
+52 job_title:brand
+53 job_title:business
+54 job_title:by
+55 job_title:care
+56 job_title:ceo
+57 job_title:chief
+58 job_title:children
+59 job_title:children's
+60 job_title:cloud
+61 job_title:coffee
+62 job_title:college
+63 job_title:comics
+64 job_title:communications
+65 job_title:community
+66 job_title:consultant
+67 job_title:content
+68 job_title:copywriter
+69 job_title:copywriter,
+70 job_title:cover
+71 job_title:crime
+72 job_title:day
+73 job_title:designer
+74 job_title:designer,
+75 job_title:designer.
+76 job_title:director
+77 job_title:editing,
+78 job_title:editor
+79 job_title:editor,
+80 job_title:editorial
+81 job_title:english
+82 job_title:entrepreneur
+83 job_title:executive
+84 job_title:expert
+85 job_title:fantasy
+86 job_title:fiction
+87 job_title:fiction,
+88 job_title:fiction.
+89 job_title:fine
+90 job_title:for
+91 job_title:founder
+92 job_title:freelance
+93 job_title:from
+94 job_title:gamer,
+95 job_title:graphic
+96 job_title:have
+97 job_title:health
+98 job_title:healthcare
+99 job_title:historical
+100 job_title:home
+101 job_title:human
+102 job_title:i
+103 job_title:i'm
+104 job_title:idea
+105 job_title:illustrator
+106 job_title:in
+107 job_title:information
+108 job_title:investigator
+109 job_title:it
+110 job_title:journalist,
+111 job_title:life
+112 job_title:literary
+113 job_title:long
+114 job_title:lot
+115 job_title:lover,
+116 job_title:manager
+117 job_title:manager,
+118 job_title:marketer
+119 job_title:marketing
+120 job_title:me
+121 job_title:media
+122 job_title:mg
+123 job_title:model
+124 job_title:mom
+125 job_title:mom,
+126 job_title:mother,
+127 job_title:my
+128 job_title:mystery
+129 job_title:needs
+130 job_title:non-fiction
+131 job_title:not
+132 job_title:novel
+133 job_title:novelist
+134 job_title:novelist,
+135 job_title:novelist.
+136 job_title:novels
+137 job_title:of
+138 job_title:on
+139 job_title:one
+140 job_title:operating
+141 job_title:owner,
+142 job_title:paranormal
+143 job_title:patient
+144 job_title:photographer,
+145 job_title:poet
+146 job_title:poet,
+147 job_title:pr
+148 job_title:president
+149 job_title:president,
+150 job_title:producer
+151 job_title:product
+152 job_title:professional
+153 job_title:professor
+154 job_title:professor,
+155 job_title:project
+156 job_title:public
+157 job_title:publicist
+158 job_title:published
+159 job_title:publisher
+160 job_title:publisher,
+161 job_title:publishing
+162 job_title:registered
+163 job_title:reviewer,
+164 job_title:reviews
+165 job_title:romance
+166 job_title:romantic
+167 job_title:science
+168 job_title:screenwriter
+169 job_title:senior
+170 job_title:services
+171 job_title:short
+172 job_title:social
+173 job_title:speaker
+174 job_title:speaker,
+175 job_title:specialist
+176 job_title:stay
+177 job_title:storyteller
+178 job_title:strategic
+179 job_title:strategist
+180 job_title:strategy,
+181 job_title:student,
+182 job_title:suspense
+183 job_title:teach.
+184 job_title:teacher
+185 job_title:teacher,
+186 job_title:technology
+187 job_title:teen
+188 job_title:that
+189 job_title:the
+190 job_title:thriller
+191 job_title:to
+192 job_title:university
+193 job_title:urban
+194 job_title:visual
+195 job_title:wife
+196 job_title:wife.
+197 job_title:with
+198 job_title:word
+199 job_title:work
+200 job_title:write
+201 job_title:write,
+202 job_title:write.
+203 job_title:writer
+204 job_title:writer,
+205 job_title:writer.
+206 job_title:writer/editor
+207 job_title:writing
+208 job_title:ya
+209 job_title:|
+210 last_name:alison
+211 last_name:amy
+212 last_name:andrew
+213 last_name:andy
+214 last_name:angela
+215 last_name:angie
+216 last_name:anne
+217 last_name:ashley
+218 last_name:autumn
+219 last_name:beth
+220 last_name:bobbie
+221 last_name:caroline
+222 last_name:cathy
+223 last_name:charlotte
+224 last_name:cheryl
+225 last_name:chrissy
+226 last_name:christina
+227 last_name:christine
+228 last_name:claire
+229 last_name:courtney
+230 last_name:daniel
+231 last_name:danielle
+232 last_name:david
+233 last_name:dawn
+234 last_name:donna
+235 last_name:elizabeth
+236 last_name:elle
+237 last_name:emily
+238 last_name:fiona
+239 last_name:heather
+240 last_name:jane
+241 last_name:jeannie
+242 last_name:jen
+243 last_name:jenna
+244 last_name:jennifer
+245 last_name:jenny
+246 last_name:jessica
+247 last_name:jim
+248 last_name:johanna
+249 last_name:john
+250 last_name:jonathan
+251 last_name:joseph
+252 last_name:julie
+253 last_name:kate
+254 last_name:kent
+255 last_name:kevin
+256 last_name:kim
+257 last_name:kristen
+258 last_name:kristina
+259 last_name:laura
+260 last_name:leah
+261 last_name:lee
+262 last_name:linda
+263 last_name:lisa
+264 last_name:liz
+265 last_name:lori
+266 last_name:megan
+267 last_name:melissa
+268 last_name:michael
+269 last_name:michelle
+270 last_name:mike
+271 last_name:morgan
+272 last_name:nancy
+273 last_name:nicole
+274 last_name:paul
+275 last_name:rachel
+276 last_name:rebecca
+277 last_name:richard
+278 last_name:robin
+279 last_name:sarah
+280 last_name:steve
+281 last_name:susan
+282 last_name:suzi
+283 last_name:therese
+284 place:
+285 place:Ann Arbor, MI
+286 place:Atlanta
+287 place:Atlanta, GA
+288 place:Austin, TX
+289 place:Berkeley, CA
+290 place:Boston, MA
+291 place:Boulder
+292 place:Boulder, Colorado
+293 place:Brisbane
+294 place:Burlington, Vermont
+295 place:California
+296 place:Canada
+297 place:Charlottesville
+298 place:Chicago
+299 place:Chicago, IL
+300 place:Chicago, Illinois
+301 place:Cincinnati, OH
+302 place:Dallas, Texas
+303 place:Dayton, OH
+304 place:Dublin
+305 place:El Paso, TX
+306 place:Hong Kong
+307 place:Houston, TX
+308 place:Houston, Texas
+309 place:Indianapolis
+310 place:Indianapolis, Indiana
+311 place:Leeds
+312 place:London
+313 place:London, England
+314 place:Los Angeles
+315 place:Los Angeles, CA
+316 place:Lynchburg, VA
+317 place:Melbourne
+318 place:Memphis, TN
+319 place:Memphis, Tennessee
+320 place:Miami
+321 place:Miami, FL
+322 place:Midwest
+323 place:Nashville, Tennessee
+324 place:New Haven, Connecticut
+325 place:New York
+326 place:New York City
+327 place:New York City, NY
+328 place:New York, NY
+329 place:Orlando, FL
+330 place:Portland, OR
+331 place:Richmond
+332 place:Richmond, Virginia
+333 place:San Antonio, TX
+334 place:San Diego, CA
+335 place:San Diego, California
+336 place:San Francisco
+337 place:San Francisco, CA
+338 place:San Francisco, California
+339 place:San Rafael, CA
+340 place:Santa Barbara, CA
+341 place:Seattle
+342 place:Seattle, Washington
+343 place:Singapore
+344 place:Southern California
+345 place:Stratford, Ontario
+346 place:Sydney
+347 place:Syracuse, NY
+348 place:Tennessee
+349 place:Toronto, Ontario
+350 place:Washington State
+351 place:Washington, D.C.
+352 place:Washington, DC
+353 place:West Hollywood, CA
+354 university:
+355 university:Baylor University
+356 university:Berklee College of Music
+357 university:Boston University
+358 university:Brandeis University
+359 university:Brigham Young University
+360 university:Bryn Mawr College
+361 university:Claremont Graduate University
+362 university:Florida State University
+363 university:George Washington University
+364 university:Harvard Law School
+365 university:IUPUI
+366 university:Knox College, Illinois
+367 university:Missouri State University
+368 university:Northeastern University
+369 university:Northwestern University
+370 university:Open University
+371 university:San Diego State University
+372 university:San Francisco State University
+373 university:Scripps College
+374 university:Southeastern Louisiana University
+375 university:Syracuse University
+376 university:Temple University
+377 university:University of Bristol
+378 university:University of British Columbia
+379 university:University of California, Berkeley
+380 university:University of California, Santa Cruz
+381 university:University of Guelph
+382 university:University of Hartford
+383 university:University of Illinois at Urbana-Champaign
+384 university:University of Kansas
+385 university:University of Life
+386 university:non-ascii_386
+387 university:University of Pennsylvania
+388 university:University of Southern California
+389 university:University of Texas at Austin
+390 university:University of Toronto
+391 university:University of Virginia
+392 university:University of Washington
+393 university:University of Wyoming
+394 university:VCU
+395 university:Virginia Commonwealth University

@@ -1,0 +1,264 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:AOL
+5 institution:Apple
+6 institution:Ars Technica
+7 institution:Blip.tv
+8 institution:CBS Interactive
+9 institution:CNET
+10 institution:CNET/CBS Interactive
+11 institution:Citizen Agency
+12 institution:Dell
+13 institution:Digg
+14 institution:Engadget
+15 institution:Expert Labs
+16 institution:Facebook
+17 institution:Flickr
+18 institution:Future US
+19 institution:Gawker Media
+20 institution:Get Satisfaction
+21 institution:Gizmodo
+22 institution:Google
+23 institution:Graphicly
+24 institution:Hunch
+25 institution:Mahalo.com
+26 institution:Mashable
+27 institution:Microsoft
+28 institution:MySpace
+29 institution:Newsweek
+30 institution:Nokia
+31 institution:O'Reilly Media
+32 institution:PayPal
+33 institution:Pownce
+34 institution:Red Herring
+35 institution:Revision3
+36 institution:Revision3 Corporation
+37 institution:San Francisco Examiner
+38 institution:Self
+39 institution:SimpleGeo
+40 institution:Six Apart
+41 institution:TWiT
+42 institution:TWiT.tv
+43 institution:TechCrunch
+44 institution:TechTV
+45 institution:Technorati
+46 institution:Twitter
+47 institution:Wired Magazine
+48 institution:ZDTV
+49 institution:Ziff Davis
+50 institution:gdgt
+51 job_title:&
+52 job_title:/
+53 job_title:a
+54 job_title:actor,
+55 job_title:analyst
+56 job_title:and
+57 job_title:angel
+58 job_title:associate
+59 job_title:at
+60 job_title:author
+61 job_title:author,
+62 job_title:blogger
+63 job_title:blogger,
+64 job_title:build
+65 job_title:cbs
+66 job_title:ceo
+67 job_title:ceo,
+68 job_title:chief
+69 job_title:co-founder
+70 job_title:columnist
+71 job_title:community
+72 job_title:consultant
+73 job_title:creative
+74 job_title:design
+75 job_title:designer
+76 job_title:designer,
+77 job_title:developer
+78 job_title:digital
+79 job_title:director
+80 job_title:director,
+81 job_title:editor
+82 job_title:editor,
+83 job_title:editor-in-chief
+84 job_title:editor/host
+85 job_title:engineer
+86 job_title:entrepreneur
+87 job_title:entrepreneur,
+88 job_title:executive
+89 job_title:for
+90 job_title:founder
+91 job_title:freelance
+92 job_title:gamer
+93 job_title:geek
+94 job_title:global
+95 job_title:google
+96 job_title:google+
+97 job_title:hacker
+98 job_title:host
+99 job_title:host,
+100 job_title:i
+101 job_title:i'm
+102 job_title:interactive
+103 job_title:internet
+104 job_title:investor,
+105 job_title:journalist
+106 job_title:lead
+107 job_title:make
+108 job_title:manager
+109 job_title:media
+110 job_title:new
+111 job_title:of
+112 job_title:officer
+113 job_title:on
+114 job_title:open
+115 job_title:photographer,
+116 job_title:podcast
+117 job_title:podcaster
+118 job_title:pr
+119 job_title:president
+120 job_title:producer
+121 job_title:producer/host
+122 job_title:product
+123 job_title:programmer
+124 job_title:public
+125 job_title:reporter
+126 job_title:senior
+127 job_title:software
+128 job_title:speaker
+129 job_title:speaker,
+130 job_title:startup
+131 job_title:storyteller
+132 job_title:strategist
+133 job_title:tech
+134 job_title:tech.
+135 job_title:technology
+136 job_title:the
+137 job_title:things
+138 job_title:things.
+139 job_title:to
+140 job_title:tv
+141 job_title:venture
+142 job_title:vice
+143 job_title:video
+144 job_title:web
+145 job_title:work
+146 job_title:works
+147 job_title:write,
+148 job_title:writer
+149 job_title:writer,
+150 last_name:andrew
+151 last_name:ben
+152 last_name:brian
+153 last_name:casey
+154 last_name:chris
+155 last_name:dan
+156 last_name:dave
+157 last_name:david
+158 last_name:gary
+159 last_name:jason
+160 last_name:jay
+161 last_name:jeff
+162 last_name:jessica
+163 last_name:john
+164 last_name:kevin
+165 last_name:larry
+166 last_name:lisa
+167 last_name:louis
+168 last_name:mark
+169 last_name:matt
+170 last_name:michael
+171 last_name:patrick
+172 last_name:pete
+173 last_name:philip
+174 last_name:robert
+175 last_name:ryan
+176 last_name:scott
+177 last_name:sean
+178 last_name:steve
+179 last_name:tom
+180 place:
+181 place:Anaheim, CA
+182 place:Ann Arbor, MI
+183 place:Arlington, VA
+184 place:Atlanta, GA
+185 place:Austin
+186 place:Austin, TX
+187 place:Baltimore, MD
+188 place:Berkeley, CA
+189 place:Boston
+190 place:Boston, MA
+191 place:Boulder, CO
+192 place:Brooklyn
+193 place:Brooklyn, NY
+194 place:Buffalo, New York
+195 place:Calgary, AB
+196 place:California
+197 place:Cambridge, MA
+198 place:Chevy Chase, MD
+199 place:Chicago
+200 place:Chicago, IL
+201 place:Colorado Springs, CO
+202 place:Connecticut
+203 place:Evanston, IL
+204 place:Ft. Lauderdale, FL
+205 place:Fullerton, CA
+206 place:Helena, Montana
+207 place:Las Vegas, NV
+208 place:London
+209 place:London, UK
+210 place:Los Angeles
+211 place:Los Angeles, CA
+212 place:Madison, WI
+213 place:Manhattan
+214 place:Naperville, IL
+215 place:New York
+216 place:New York City
+217 place:New York City, New York
+218 place:New York, NY
+219 place:Oakland, CA
+220 place:Orange, CA
+221 place:Orlando, FL
+222 place:Palo Alto, CA
+223 place:Paris, France
+224 place:Pasadena, CA
+225 place:Philadelphia, PA
+226 place:Pittsburgh, PA
+227 place:Pullman, WA
+228 place:San Antonio, TX
+229 place:San Diego, CA
+230 place:San Francisco
+231 place:San Francisco, CA
+232 place:San Francisco, California
+233 place:San Jose
+234 place:San Jose, CA
+235 place:Santa Barbara, CA
+236 place:Santa Cruz, CA
+237 place:Santa Monica, CA
+238 place:Scotland
+239 place:Scottsdale, AZ
+240 place:Seattle, WA
+241 place:Springfield, MO
+242 place:Vancouver, BC
+243 place:Washington, DC
+244 place:Williamsburg, VA
+245 place:london
+246 university:Boston University
+247 university:Columbia University
+248 university:Harvard University
+249 university:Indiana University
+250 university:Massachusetts Institute of Technology
+251 university:San Francisco State University
+252 university:Stanford
+253 university:Stanford University
+254 university:Syracuse University
+255 university:UC Berkeley
+256 university:UC Davis
+257 university:UCLA
+258 university:University of California, Berkeley
+259 university:University of California, Santa Barbara
+260 university:University of Illinois at Urbana-Champaign
+261 university:University of Michigan
+262 university:University of Texas at Austin
+263 university:University of Virginia

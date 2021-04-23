@@ -1,0 +1,103 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Freelance
+5 institution:Self
+6 job_title:&
+7 job_title:-
+8 job_title:/
+9 job_title:a
+10 job_title:am
+11 job_title:american
+12 job_title:and
+13 job_title:animator
+14 job_title:art
+15 job_title:artist
+16 job_title:artist,
+17 job_title:artist.
+18 job_title:at
+19 job_title:business
+20 job_title:but
+21 job_title:consultant
+22 job_title:design
+23 job_title:design,
+24 job_title:designer
+25 job_title:designer,
+26 job_title:developer
+27 job_title:development
+28 job_title:digital
+29 job_title:do
+30 job_title:engineer
+31 job_title:estate
+32 job_title:fashion
+33 job_title:fine
+34 job_title:for
+35 job_title:freelance
+36 job_title:freelancer
+37 job_title:graphic
+38 job_title:have
+39 job_title:i
+40 job_title:i'm
+41 job_title:illustration
+42 job_title:in
+43 job_title:it
+44 job_title:love
+45 job_title:make
+46 job_title:marketing
+47 job_title:media,
+48 job_title:my
+49 job_title:of
+50 job_title:oil
+51 job_title:painter
+52 job_title:painter,
+53 job_title:photographer
+54 job_title:photos
+55 job_title:professional
+56 job_title:professor
+57 job_title:real
+58 job_title:registered
+59 job_title:self-employed
+60 job_title:service
+61 job_title:services
+62 job_title:social
+63 job_title:software
+64 job_title:student
+65 job_title:teacher
+66 job_title:the
+67 job_title:time
+68 job_title:to
+69 job_title:visual
+70 job_title:web
+71 job_title:who
+72 job_title:with
+73 job_title:working
+74 job_title:you.
+75 job_title:|
+76 last_name:alessandro
+77 last_name:bill
+78 last_name:brian
+79 last_name:charles
+80 last_name:chris
+81 last_name:dan
+82 last_name:jason
+83 last_name:john
+84 last_name:kevin
+85 last_name:michael
+86 last_name:rick
+87 last_name:robert
+88 last_name:steve
+89 place:Agana, Guam
+90 place:Ann Arbor, MI
+91 place:Athens, GA
+92 place:Atlanta, GA
+93 place:Berlin, Germany
+94 place:Bucharest, Romania
+95 place:Paris, France
+96 place:San Francisco, CA
+97 place:Seattle, WA
+98 place:Seattle, Washington
+99 place:Washington, DC
+100 university:
+101 university:The Art Institute of Seattle
+102 university:University of Michigan

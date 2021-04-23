@@ -1,0 +1,92 @@
+0 gender:1
+1 gender:2
+2 gender:3
+3 institution:
+4 institution:Chicago Tribune
+5 institution:Google
+6 institution:Microsoft
+7 job_title:&
+8 job_title:-
+9 job_title:/
+10 job_title:a
+11 job_title:and
+12 job_title:artist
+13 job_title:artist,
+14 job_title:at
+15 job_title:blogger,
+16 job_title:community
+17 job_title:designer
+18 job_title:designer,
+19 job_title:developer
+20 job_title:for
+21 job_title:freelance
+22 job_title:geek
+23 job_title:get
+24 job_title:google+
+25 job_title:guy
+26 job_title:i
+27 job_title:in
+28 job_title:internet
+29 job_title:is
+30 job_title:it
+31 job_title:job.
+32 job_title:journalist
+33 job_title:manager
+34 job_title:musician
+35 job_title:my
+36 job_title:new
+37 job_title:of
+38 job_title:or
+39 job_title:paid
+40 job_title:people
+41 job_title:people,
+42 job_title:photographer
+43 job_title:photographer,
+44 job_title:photographer.
+45 job_title:photography
+46 job_title:professional
+47 job_title:professor,
+48 job_title:self
+49 job_title:software
+50 job_title:specialist
+51 job_title:startup
+52 job_title:student
+53 job_title:technology
+54 job_title:the
+55 job_title:to
+56 job_title:traveler
+57 job_title:user
+58 job_title:with
+59 job_title:work
+60 job_title:writer
+61 job_title:writer,
+62 job_title:your
+63 last_name:chris
+64 last_name:christina
+65 last_name:craig
+66 last_name:m
+67 last_name:mark
+68 last_name:mike
+69 last_name:peter
+70 last_name:ron
+71 last_name:ryan
+72 place:Atlanta, GA
+73 place:Austin, TX
+74 place:Boston, MA
+75 place:Buffalo, NY
+76 place:Chicago, IL
+77 place:Columbus, OH
+78 place:Elmhurst, IL
+79 place:Hong Kong
+80 place:Houston, TX
+81 place:London
+82 place:Memphis, TN
+83 place:New York
+84 place:New York City, NY
+85 place:New York, NY
+86 place:Rochester, NY
+87 place:San Antonio, TX
+88 place:Seattle, WA
+89 place:Washington, DC
+90 university:Brookline High School
+91 university:Cornell University
