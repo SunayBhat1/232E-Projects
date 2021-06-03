@@ -1,0 +1,86 @@
+\documentclass[11pt]{article}
+
+\usepackage{sectsty}
+\usepackage{graphicx}
+\usepackage{mathtools}
+
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\title{ Title}
+\author{ Author }
+\date{\today}
+
+\begin{document}
+%--Paper--
+
+\section{Problem 1 a}
+
+If \(r_i(t)\) and \(r_j(t)\) are correlated, then: 
+$$r_i(t) = \alpha \: r_j(t)$$
+
+Thus:
+$$<r_i(t)r_j(t)>= \alpha \: <r_j(t)^2>$$
+$$<r_i(t)><r_j(t)>= \alpha \: <r_j(t)>^2$$
+
+In Addition:
+$$(<r_i(t)^2> - <r_i(t)>^2) = (\alpha^2 <r_j(t)^2> - \alpha^2<r_j(t)>^2) = \alpha^2 (<r_j(t)^2> - <r_j(t)>^2)$$
+
+Thus the denominator of \(\rho_{ij}\) is:
+$$\sqrt[]{(<r_i(t)^2> - <r_i(t)>^2)(<r_j(t)^2> - <r_j(t)>^2)} = \sqrt[]{\alpha^2 (<r_j(t)^2> - <r_j(t)>^2)^2}$$
+
+And the numerator of \(\rho_{ij}\) is:
+$$<r_i(t)r_j(t)> - <r_i(t)><r_j(t)> = \alpha <r_j(t)^2> - \alpha <r_j(t)>^2 = \alpha (<r_j(t)^2> - <r_j(t)>^2)$$
+
+And finally:
+
+$$\rho_{ij} =\frac{\alpha (<r_j(t)^2> - <r_j(t)>^2)}{\sqrt[]{\alpha^2 (<r_j(t)^2> - <r_j(t)>^2)^2}} = \frac{\alpha}{\sqrt[]{\alpha^2}}$$
+
+\begin{center}Meaning that if \(\alpha > 0\), \(\rho_{ij} = 1\) and if \(\alpha < 0\), \(\rho_{ij} = -1\) \end{center}
+
+\section{Problem 1 b}
+
+$$log[1+q_i(t)] =$$
+$$log[\frac{p_1(t-1)}{p_1(t-1)} + \frac{(p_1(t)-p_1(t-1))}{p_1(t-1)}] =$$
+$$log[\frac{p_1(t)}{p_1(t-1)}] =$$
+$$log[p_1(t)] - log[p_1(t-1)]$$
+
+\section{Problem 2 a}
+
+$$w_{ij} = \sqrt[]{2(1-\rho_{ij})}$$
+
+\newpage
+
+\section{Problem 4}
+
+$$\alpha = \frac{1}{|V|}\sum_{v_i\in V} P(v_i\in S_i)$$
+
+The first method utilizes the minimum spanning tree (MST) generated in the previous question. \(Q_i\) is the set of neighbors from the MST that share the same sector, while \(N_i\) is the set of all neighbors in the MST:
+
+$$P(v_i\in S_i) = \frac{|Q_i|}{|V_i|}$$
+
+
+The second method effectively considers the entire graph. \(S_i\) is the total number of stocks in the same sector, while \(V\) is the set of all stocks (vertices):
+
+$$P(v_i\in S_i) = \frac{|S_i|}{|V|}$$
+
+
+Note that if we take the \textbf{first method of the full graph, these two values are equivalent.}
+ Since the full graph is fully connnected:
+
+$$Q_i = S_i,  N_i = V$$
+Thus,
+
+$$\alpha_1 = \alpha_2$$
+
+
+\end{document}
+
+
+
+
